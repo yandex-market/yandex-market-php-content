@@ -1,0 +1,399 @@
+{
+  "status": "OK",
+  "context": {
+    "region": {
+      "id": 215,
+      "name": "Дубна",
+      "type": "CITY",
+      "childCount": 0,
+      "country": {
+        "id": 225,
+        "name": "Россия",
+        "type": "COUNTRY",
+        "childCount": 10
+      }
+    },
+    "currency": {
+      "id": "RUR",
+      "name": "руб."
+    },
+    "processingOptions": {
+      "count": 590861,
+      "modelCount": 4262212808,
+      "offerCount": 164053,
+      "cpaCount": 0
+    },
+    "id": "15339105222123ddas7221/d542af4c9212222f48c77366811asdasd72369f81dff",
+    "time": "2018-08-10T17:15:29.638+03:00",
+    "marketUrl": "https://market.yandex.ru?pp=1001"
+  },
+  "sorts": [
+    {
+      "text": "по цене",
+      "field": "PRICE",
+      "options": [
+        {
+          "id": "aprice",
+          "how": "ASC",
+          "text": "Сначала дешёвые"
+        },
+        {
+          "id": "dprice",
+          "how": "DESC",
+          "text": "Сначала дорогие"
+        }
+      ]
+    }
+  ],
+  "filters": [
+    {
+      "id": "-11",
+      "name": "Производитель",
+      "type": "ENUM",
+      "values": [
+        {
+          "id": "12612583",
+          "name": "AGV",
+          "initialFound": 65,
+          "found": 65
+        },
+        {
+          "id": "12612577",
+          "name": "Airoh Helmet",
+          "initialFound": 13,
+          "found": 13
+        },
+        {
+          "id": "13969392",
+          "name": "BELL",
+          "initialFound": 16,
+          "found": 16
+        },
+        {
+          "id": "152786",
+          "name": "Bridgestone",
+          "initialFound": 7885,
+          "found": 7885
+        },
+        {
+          "id": "12612246",
+          "name": "Caberg",
+          "initialFound": 11,
+          "found": 11
+        },
+        {
+          "id": "153012",
+          "name": "Continental",
+          "initialFound": 8305,
+          "found": 8305
+        },
+        {
+          "id": "152823",
+          "name": "Hankook Tire",
+          "initialFound": 5921,
+          "found": 5921
+        },
+        {
+          "id": "152883",
+          "name": "MICHELIN",
+          "initialFound": 8483,
+          "found": 8483
+        },
+        {
+          "id": "152927",
+          "name": "Nokian Tyres",
+          "initialFound": 8798,
+          "found": 8798
+        },
+        {
+          "id": "152959",
+          "name": "Pirelli",
+          "initialFound": 6642,
+          "found": 6642
+        },
+        {
+          "id": "448898",
+          "name": "Toyo",
+          "initialFound": 5932,
+          "found": 5932
+        },
+        {
+          "id": "153005",
+          "name": "Yokohama",
+          "initialFound": 7125,
+          "found": 7125
+        },
+        {
+          "id": "14305781",
+          "name": "1 New",
+          "initialFound": 2,
+          "found": 2
+        },
+        {
+          "id": "287353",
+          "name": "3M",
+          "initialFound": 12,
+          "found": 12
+        },
+        {
+          "id": "12904809",
+          "name": "3TON",
+          "initialFound": 2,
+          "found": 2
+        },
+        {
+          "id": "12700432",
+          "name": "3TON Country",
+          "initialFound": 2,
+          "found": 2
+        },
+        {
+          "id": "8511008",
+          "name": "4 Racing",
+          "initialFound": 20,
+          "found": 20
+        },
+        {
+          "id": "4591163",
+          "name": "4Go",
+          "initialFound": 3115,
+          "found": 3115
+        },
+        {
+          "id": "9384398",
+          "name": "7TEC",
+          "initialFound": 1,
+          "found": 1
+        },
+        {
+          "id": "9341216",
+          "name": "57 MOTORSPORT",
+          "initialFound": 2,
+          "found": 2
+        },
+        {
+          "id": "13012948",
+          "name": "77 Lubricants",
+          "initialFound": 22,
+          "found": 22
+        },
+        {
+          "id": "12617173",
+          "name": "100%",
+          "initialFound": 23,
+          "found": 23
+        },
+        {
+          "id": "12832562",
+          "name": "555",
+          "initialFound": 35,
+          "found": 35
+        },
+        {
+          "id": "11900221",
+          "name": "885",
+          "initialFound": 279,
+          "found": 279
+        },
+        {
+          "id": "13557106",
+          "name": "1000 Miglia",
+          "initialFound": 404,
+          "found": 404
+        },
+        {
+          "id": "15642340",
+          "name": "A&P Групп",
+          "initialFound": 9,
+          "found": 9
+        },
+        {
+          "id": "6276496",
+          "name": "A&V",
+          "initialFound": 9,
+          "found": 9
+        },
+        {
+          "id": "14257867",
+          "name": "AAALINE",
+          "initialFound": 2,
+          "found": 2
+        },
+        {
+          "id": "12252347",
+          "name": "ABB",
+          "initialFound": 1,
+          "found": 1
+        },
+        {
+          "id": "10713334",
+          "name": "ABRO",
+          "initialFound": 74,
+          "found": 74
+        },
+        {
+          "id": "10714167",
+          "name": "Absolut",
+          "initialFound": 4,
+          "found": 4
+        },
+        {
+          "id": "6451822",
+          "name": "AC Schnitzer",
+          "initialFound": 2,
+          "found": 2
+        },
+        {
+          "id": "3471058",
+          "name": "Accelera",
+          "initialFound": 317,
+          "found": 317
+        },
+        {
+          "id": "2182843",
+          "name": "Ace",
+          "initialFound": 2,
+          "found": 2
+        },
+        {
+          "id": "12617113",
+          "name": "Acerbis",
+          "initialFound": 8,
+          "found": 8
+        },
+        {
+          "id": "6205971",
+          "name": "Achilles",
+          "initialFound": 515,
+          "found": 515
+        },
+        {
+          "id": "1005852",
+          "name": "Acmepower",
+          "initialFound": 5,
+          "found": 5
+        },
+        {
+          "id": "10714185",
+          "name": "Acrylicos Vallejo",
+          "initialFound": 2,
+          "found": 2
+        },
+        {
+          "id": "7949252",
+          "name": "ACV",
+          "initialFound": 217,
+          "found": 217
+        },
+        {
+          "id": "13374335",
+          "name": "AD",
+          "initialFound": 7,
+          "found": 7
+        },
+        {
+          "id": "536799",
+          "name": "Adagio",
+          "initialFound": 34,
+          "found": 34
+        },
+        {
+          "id": "12687908",
+          "name": "ADDINOL",
+          "initialFound": 142,
+          "found": 142
+        },
+        {
+          "id": "7912471",
+          "name": "Aderenza",
+          "initialFound": 8,
+          "found": 8
+        },
+        {
+          "id": "14431080",
+          "name": "Adolf Bucher",
+          "initialFound": 2,
+          "found": 2
+        },
+        {
+          "id": "10577427",
+          "name": "Adora",
+          "initialFound": 2,
+          "found": 2
+        },
+        {
+          "id": "6976965",
+          "name": "Advan",
+          "initialFound": 190,
+          "found": 190
+        },
+        {
+          "id": "11007670",
+          "name": "Advance",
+          "initialFound": 7,
+          "found": 7
+        },
+        {
+          "id": "1040218",
+          "name": "Advanti",
+          "initialFound": 880,
+          "found": 880
+        },
+        {
+          "id": "7156307",
+          "name": "AdvoCam",
+          "initialFound": 9,
+          "found": 9
+        },
+        {
+          "id": "12397025",
+          "name": "AE&T",
+          "initialFound": 10,
+          "found": 10
+        },
+        {
+          "id": "152789",
+          "name": "AEG",
+          "initialFound": 8,
+          "found": 8
+        },
+        {
+          "id": "9290165",
+          "name": "Aeolus",
+          "initialFound": 458,
+          "found": 458
+        },
+        {
+          "id": "15057306",
+          "name": "Aero",
+          "initialFound": 224,
+          "found": 224
+        },
+        {
+          "id": "967141",
+          "name": "AEZ",
+          "initialFound": 2244,
+          "found": 2244
+        },
+        {
+          "id": "10714206",
+          "name": "Afa",
+          "initialFound": 17,
+          "found": 17
+        },
+        {
+          "id": "10713340",
+          "name": "AGA",
+          "initialFound": 9,
+          "found": 9
+        },
+        {
+          "id": "11008317",
+          "name": "Agate",
+          "initialFound": 1,
+          "found": 1
+        }
+      ]
+    }
+  ]
+}

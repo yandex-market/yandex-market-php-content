@@ -1,0 +1,266 @@
+{
+  "status": "OK",
+  "context": {
+    "region": {
+      "id": 225,
+      "name": "Россия",
+      "type": "COUNTRY",
+      "childCount": 10,
+      "country": {
+        "id": 225,
+        "name": "Россия",
+        "type": "COUNTRY",
+        "childCount": 10
+      }
+    },
+    "currency": {
+      "id": "RUR",
+      "name": "руб."
+    },
+    "page": {
+      "number": 1,
+      "count": 10,
+      "total": 824
+    },
+    "processingOptions": {
+      "adult": false
+    },
+    "id": "1534165571056/0030cb19180ff38284c66481a767d632",
+    "time": "2018-08-13T16:06:11.615+03:00",
+    "marketUrl": "https://market.yandex.ru?pp=930"
+  },
+  "models": [
+    {
+      "id": 1907092554,
+      "name": "Автомобильная шина MICHELIN Primacy 4 205/55 R16 91V",
+      "kind": "",
+      "type": "MODIFICATION",
+      "parent": {
+        "id": 1870809106
+      },
+      "isNew": false,
+      "description": "летние, ширина профиля 205 мм, обод 16\"",
+      "photo": {
+        "width": 277,
+        "height": 354,
+        "url": "https://avatars.mds.yandex.net/get-mpic/175985/img_id3351874590108987606.png/orig"
+      },
+      "category": {
+        "id": 90490,
+        "name": "Шины",
+        "fullName": "Автомобильные шины",
+        "childCount": 0,
+        "advertisingModel": "HYBRID",
+        "viewType": "GRID"
+      },
+      "link": "https://market.yandex.ru/product/1907092554?hid=90490&pp=930"
+    },
+    {
+      "id": 1635392,
+      "name": "Колесный диск K&K УАЗ 7x16/5x139.7 D108.5 ET35",
+      "kind": "",
+      "type": "MODIFICATION",
+      "parent": {
+        "id": 5086952
+      },
+      "isNew": false,
+      "description": "литые, легкий сплав, ширина обода 7\", диаметр обода 16\", крепежных отверстий 5, PCD 139.7 мм, центральное отверстие 108.5 мм, вылет ET 35 мм, цвет: серебристый",
+      "photo": {
+        "width": 700,
+        "height": 660,
+        "url": "https://avatars.mds.yandex.net/get-mpic/96484/img_id4409078212727820634/orig"
+      },
+      "category": {
+        "id": 166068,
+        "name": "Колесные диски",
+        "fullName": "Колесные диски",
+        "childCount": 0,
+        "advertisingModel": "HYBRID",
+        "viewType": "GRID"
+      },
+      "link": "https://market.yandex.ru/product/1635392?hid=166068&pp=930"
+    },
+    {
+      "id": 1722664852,
+      "name": "Видеорегистратор Xiaomi MiJia Car Driving Recorder Camera",
+      "kind": "",
+      "type": "MODEL",
+      "isNew": false,
+      "description": "регистратор, запись видео 1920×1080 при 30 к/c, ЖК-экран 3\", G-сенсор, аккумулятор, угол обзора 160°, микрофон",
+      "photo": {
+        "width": 407,
+        "height": 280,
+        "url": "https://avatars.mds.yandex.net/get-mpic/331398/img_id6183628386969825306/orig"
+      },
+      "category": {
+        "id": 6269371,
+        "name": "Видеорегистраторы",
+        "fullName": "Автомобильные видеорегистраторы",
+        "childCount": 0,
+        "advertisingModel": "HYBRID",
+        "viewType": "GRID"
+      },
+      "link": "https://market.yandex.ru/product/1722664852?hid=6269371&pp=930"
+    },
+    {
+      "id": 1728057338,
+      "name": "Радар-детектор SilverStone F1 Monaco S",
+      "kind": "",
+      "type": "MODEL",
+      "isNew": false,
+      "description": "обнаружение \"Стрелки\", обнаружение \"Автодории\", обнаружение системы \"Кордон\", обнаружение системы\"Робот\", K, Ka, Ku, X, Ultra-K, сигнатурный анализ, GPS, POP",
+      "photo": {
+        "width": 701,
+        "height": 603,
+        "url": "https://avatars.mds.yandex.net/get-mpic/195452/img_id8145655355413903182/orig"
+      },
+      "category": {
+        "id": 90462,
+        "name": "Радар-детекторы",
+        "fullName": "Радар-детекторы автомобильные",
+        "childCount": 0,
+        "advertisingModel": "HYBRID",
+        "viewType": "LIST"
+      },
+      "link": "https://market.yandex.ru/product/1728057338?hid=90462&pp=930"
+    },
+    {
+      "id": 11160664,
+      "name": "Автомобильная акустика JBL CS760C",
+      "kind": "",
+      "type": "MODEL",
+      "isNew": false,
+      "description": "компонентная АС, типоразмер: 16 см (6 дюйм.), мощность: 50 Вт, количество полос: 2, чувствительность: 92 дБ, импеданс: 4 Ом",
+      "photo": {
+        "width": 696,
+        "height": 701,
+        "url": "https://avatars.mds.yandex.net/get-mpic/175985/img_id4723050232013690088/orig"
+      },
+      "category": {
+        "id": 308016,
+        "name": "Автоакустика",
+        "fullName": "Автомобильная акустика",
+        "childCount": 0,
+        "advertisingModel": "HYBRID",
+        "viewType": "LIST"
+      },
+      "link": "https://market.yandex.ru/product/11160664?hid=308016&pp=930"
+    },
+    {
+      "id": 8230890,
+      "name": "Автомобильная шина Continental ContiPremiumContact 5 205/55 R16 91H",
+      "kind": "",
+      "type": "MODIFICATION",
+      "parent": {
+        "id": 7929166
+      },
+      "isNew": false,
+      "description": "летние, ширина профиля 205 мм, обод 16\"",
+      "photo": {
+        "width": 469,
+        "height": 690,
+        "url": "https://avatars.mds.yandex.net/get-mpic/175985/img_id3842840176513751502/orig"
+      },
+      "category": {
+        "id": 90490,
+        "name": "Шины",
+        "fullName": "Автомобильные шины",
+        "childCount": 0,
+        "advertisingModel": "HYBRID",
+        "viewType": "GRID"
+      },
+      "link": "https://market.yandex.ru/product/8230890?hid=90490&pp=930"
+    },
+    {
+      "id": 10862133,
+      "name": "Колесный диск K&K КС672 (16_Duster FL) 6.5x16/5x114.3 D66.1 ET50 сильвер",
+      "kind": "",
+      "type": "MODIFICATION",
+      "parent": {
+        "id": 10859456
+      },
+      "isNew": false,
+      "description": "литые, легкий сплав, ширина обода 6.5\", диаметр обода 16\", крепежных отверстий 5, PCD 114.3 мм, центральное отверстие 66.1 мм, вылет ET 50 мм, цвет: серебристый",
+      "photo": {
+        "width": 466,
+        "height": 452,
+        "url": "https://avatars.mds.yandex.net/get-mpic/96484/img_id7276509111995528018/orig"
+      },
+      "category": {
+        "id": 166068,
+        "name": "Колесные диски",
+        "fullName": "Колесные диски",
+        "childCount": 0,
+        "advertisingModel": "HYBRID",
+        "viewType": "GRID"
+      },
+      "link": "https://market.yandex.ru/product/10862133?hid=166068&pp=930"
+    },
+    {
+      "id": 1881807756,
+      "name": "Видеорегистратор Xiaomi 70 Meters Intelligent Traffic Recorder",
+      "kind": "",
+      "type": "MODEL",
+      "isNew": false,
+      "description": "регистратор, запись видео 1920×1080, без экрана, аккумулятор, угол обзора 130°, микрофон",
+      "photo": {
+        "width": 599,
+        "height": 395,
+        "url": "https://avatars.mds.yandex.net/get-mpic/331398/img_id1234313067635447893.jpeg/orig"
+      },
+      "category": {
+        "id": 6269371,
+        "name": "Видеорегистраторы",
+        "fullName": "Автомобильные видеорегистраторы",
+        "childCount": 0,
+        "advertisingModel": "HYBRID",
+        "viewType": "GRID"
+      },
+      "link": "https://market.yandex.ru/product/1881807756?hid=6269371&pp=930"
+    },
+    {
+      "id": 1727164146,
+      "name": "Радар-детектор SHO-ME G-1000 Signature",
+      "kind": "",
+      "type": "MODEL",
+      "isNew": false,
+      "description": "обнаружение \"Стрелки\", обнаружение \"Автодории\", обнаружение системы \"Кордон\", обнаружение системы\"Робот\", K, Ka, X, сигнатурный анализ, GPS",
+      "photo": {
+        "width": 412,
+        "height": 335,
+        "url": "https://avatars.mds.yandex.net/get-mpic/195452/img_id2092295041292087296/orig"
+      },
+      "category": {
+        "id": 90462,
+        "name": "Радар-детекторы",
+        "fullName": "Радар-детекторы автомобильные",
+        "childCount": 0,
+        "advertisingModel": "HYBRID",
+        "viewType": "LIST"
+      },
+      "link": "https://market.yandex.ru/product/1727164146?hid=90462&pp=930"
+    },
+    {
+      "id": 12374832,
+      "name": "Автомобильный сабвуфер Урал AS-D12A",
+      "kind": "",
+      "type": "MODEL",
+      "isNew": false,
+      "description": "сабвуфер, активный, корпус: фазоинверторный, типоразмер: 30 см (12 дюйм.), мощность: 400 Вт, количество полос: 1, чувствительность: 93 дБ",
+      "photo": {
+        "width": 596,
+        "height": 516,
+        "url": "https://avatars.mds.yandex.net/get-mpic/199079/img_id2693429436831382059/orig"
+      },
+      "category": {
+        "id": 308016,
+        "name": "Автоакустика",
+        "fullName": "Автомобильная акустика",
+        "childCount": 0,
+        "advertisingModel": "HYBRID",
+        "viewType": "LIST"
+      },
+      "link": "https://market.yandex.ru/product/12374832?hid=308016&pp=930"
+    }
+  ]
+}

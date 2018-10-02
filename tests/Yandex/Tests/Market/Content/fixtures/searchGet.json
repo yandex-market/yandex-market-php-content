@@ -1,0 +1,280 @@
+{
+  "status": "OK",
+  "context": {
+    "region": {
+      "id": 213,
+      "name": "Москва",
+      "type": "CITY",
+      "childCount": 14,
+      "country": {
+        "id": 225,
+        "name": "Россия",
+        "type": "COUNTRY",
+        "childCount": 10
+      }
+    },
+    "currency": {
+      "id": "RUR",
+      "name": "руб."
+    },
+    "page": {
+      "number": 1,
+      "count": 10,
+      "total": 10,
+      "totalItems": 96
+    },
+    "processingOptions": {
+      "checkSpelled": true,
+      "text": "Мос",
+      "actualText": "Мос",
+      "highlightedText": "",
+      "adult": false
+    },
+    "id": "1534232432700/1273e641856a4e30bdd248991b45faee",
+    "time": "2018-08-14T10:40:32.997+03:00",
+    "link": "https://market.yandex.ru/search?onstock=0&text=%D0%9C%D0%BE%D1%81&free-delivery=0&how&pp=929",
+    "marketUrl": "https://market.yandex.ru?pp=929"
+  },
+  "items": [
+    {
+      "__type": "offer",
+      "id": "yDpJekrrgZGEz8GDHcFbZtiBG9CYMXt-9eKFOoi8EKN2B0IjLwUx1A",
+      "wareMd5": "MW0Ki81ZzB2U3k-r0OTavA",
+      "name": "Moschino MOS 004/S 08A IR D99",
+      "description": "С/з очки Moschino MOS 004/S 08A IR",
+      "price": {
+        "value": "13912"
+      },
+      "cpa": false,
+      "url": "https://market.yandex.ru/offer/MW0Ki81ZzB2U3k-r0OTavA?hid=433018&pp=929&cpc=0-THIbQaxYHGZW0-7R7SryuCElDQOhhDQLB6Y9ydCFGTaHyn4Qeyou6Y0MCIlU1PYb9iEOxQ6InYzdT5Gp1GrOaAuc1ifafhTKQ3tfrcBCk%2C&lr=213",
+      "outletUrl": "https://market-click2.yandex.ru/redir/338FT8NBgRs_bW9iYRm1Sksl5OxKeHpN8MQ8X5hGqtOCYoG3zU2H2bOzJrK2WYuOsOtKownLDznD_oZJ3cFI1YmLX9yW7Fas71aD2E5PWJxOwefiQ2VHAt7YcgxphUNtdeZ8GdZHXe9ry28CYazGT2hqopQFd2_js4R1pWNs-ohLNpuLlkagbVoaIUX__l6VBwTjdkYf9rN9etZMDDNY54hRgMd7DTpOsdxqhmg_iTuDVn6joDTqckxFxD_mnvURAggr1M_xucenN_-Dh0fqLIfXutDsBx-9gUg2_v-75YxUk2DHM-NYPUkE9cmeM2lIEMr3eS9HYSDVw5nfPaFjzhLNZ1C1Ovjr5X7_gxxGXVnon1xwBDfKWybQcY7V2dw01IsiPG0tPRLg_XkGsk5ctxYXfX5GoYNj3DXg2LwmYfRKtZtXsnQUCuKu76mAjXGsNuYVpnoR0CUNmn2R19fUT5FVyhPOJiGpVvqS_-0idwZ3edlhJcvGHmi_NJBL-k0d-tz7D0oMrNu5McV13AbLhAba-G9opwHqSk56a1Mh21qlLyAp-v5IbtiKYmlx2tckG0Yed0JMgCyQhSGKN5ZgAdvB-EqhpZ-6aNx0a-io0xkI_amci8JMPF2TN6U5NM3EIQlx1yp2llyTsU9XH1ZbkIkK9SlvAdlYpZ7RIXTHdoesrJmo_-D3B39_a1jFWHZrSL-cvZY4qooumlNgVx8Q8pmXtj9K6KVcdNe1eaa96iF29wlpgtW1CMkMqUqb1yEWafr9KySNmZK4xyDgxgTPnxrdPOdOK0lujWTxVGWYcOTEz-k6t3Nc_n1FQlTY46d_eoczSE8zmCRlWhVPpnBECQ,,?data=41WTYndNxdlaG-5xTfn6okY8p8Pwg5EL5PtKPUoATUEvlEoXLlDZ2UlAhSpDmx5nb0QfMlkKBAP-WSfPWgZauorGLl-mfjFOrJfi7m29ogvztvA_bQksXKJGK6cMgLQHBDn9EHtA0aq2zvEKHEwKLeD6WqVWAl1P6I6-lHbWaxX9gLkf_RTWGafoZ8jpC-J43fJeoj4QiFA,&b64e=1&sign=6835ce23eeeee6a1031664abd8751175&keyno=1",
+      "onStock": true,
+      "phone": {
+        "number": "+7 495 649-60-20",
+        "sanitized": "+74956496020",
+        "call" : "test data"
+      },
+      "warranty": true,
+      "recommended": false,
+      "link": "https://market.yandex.ru/offer/MW0Ki81ZzB2U3k-r0OTavA?hid=433018&pp=929&cpc=0-THIbQaxYHGZW0-7R7SryuCElDQOhhDQLB6Y9ydCFGTaHyn4Qeyou6Y0MCIlU1PYb9iEOxQ6InYzdT5Gp1GrOaAuc1ifafhTKQ3tfrcBCk%2C&lr=213",
+      "paymentOptions": {
+        "canPayByCard": false
+      }
+    },
+    {
+      "__type": "offer",
+      "id": "yDpJekrrgZF9w38EGKtNaBl-9lrla4xcFXM-btchHjBo_i1aOLq0NA",
+      "wareMd5": "sE3eoNyLyCRH-b0TvIDi7Q",
+      "name": "Moschino MOS 004/S BSC DC D99",
+      "description": "С/з очки Moschino MOS 004/S BSC DC",
+      "price": {
+        "value": "13912"
+      },
+      "cpa": false,
+      "url": "https://market.yandex.ru/offer/sE3eoNyLyCRH-b0TvIDi7Q?hid=433018&pp=929&cpc=pOV0g7TJBsotkL0-H6GstABxykD4wVqMmUKgut4t8vq51tdMSFYXk_GDTuBioFeJEFDz3rj1ovVSkts1CcGYib88U48t8eyj1MMa3b6UnNE%2C&lr=213",
+      "outletUrl": "https://market-click2.yandex.ru/redir/338FT8NBgRu7rshDBmehSNo-CVwtlVGa7uJiz27GRqVmH3ASUGBBVjjDeWVOdChl0M1uLLPAPgH0FihK7mjv257qWEOA3kfdR9qz8BHmqMSfdcFHPmyriZxlJ52B1HjS9-I41_O56HyYGh9UpVNHea0ttfb4RzSuIdJs9pRCZjU6BOovOlqSZ6jrRmvPcwyXo3dKb3x9MVJxf6nhNQQ0BkM3b_U48ZbLWyEaqKzXLyDVk9y6c79hdVfUo99X2oqioUJZQ2NaVV4xVzRz9YK7JrhJwH3ZoGuJkTFP_VEVGe12WJXGylcv0CoR0D0axeieEbVL4DckXfI8udjHyT8Nr0NUz4yijAEgB2VFLtAe4ScvM2kQ3LfDP88B_g10r--SUO411GwKRFCXthY-j8qtPkZblad-ns6EGkGJ86M81eEKJSsMprrUEeNRhq2-c53nfeRaFmjScE1Tz3fqHL3tGpZM230XoCw4NZ6vOI6_csYpOwNKbOfIimUk4Gkw5aJYkhXQto6Gx3qPCrczn6HoXgBxqkuVfUmcojhLHh6xD-nlRMU5Vey6keCnwoDCOscDe8-kEyR_ViN4pdsQJaoHgWo8XyRudG4YXR60IpIrYfc2CpNk7R32-ChkFKAZGPBJDd8CgHDl4Is7yjCfYIJUVhbh8DTLasYxFv3YJ2gyMCbWnLx8lE6W7mEMpuw_1Os3yfevJEWawRd_cLwttcEUmuez_aj1iyuLz3jepFamQGQSaUaPRSx_KRpKU4Hi2ZwnF06fyL9DGPlOwolJMvon8Tx2bR524dWOgEhkkKxtJcid9ax17I7erw8j8UEot8scfG7blK54s1Ahue6V1uNfFg,,?data=41WTYndNxdlaG-5xTfn6okY8p8Pwg5EL5PtKPUoATUEvlEoXLlDZ2UlAhSpDmx5nb0QfMlkKBAP-WSfPWgZauorGLl-mfjFOrJfi7m29oguzUkuQ30fH6_rfbTB3IyUpraHccdaDMW9o9VclA7Iq_tnPwhrShYcFkFD83_dcABQZSh3m2I67fa5pLfi8ckyVNWrbpZ9MIEg,&b64e=1&sign=b1a551a5c88815cc26c977eb3ad54bb0&keyno=1",
+      "onStock": true,
+      "phone": {
+        "number": "+7 495 649-60-20",
+        "sanitized": "+74956496020",
+        "call" : "test data"
+      },
+      "warranty": true,
+      "recommended": false,
+      "link": "https://market.yandex.ru/offer/sE3eoNyLyCRH-b0TvIDi7Q?hid=433018&pp=929&cpc=pOV0g7TJBsotkL0-H6GstABxykD4wVqMmUKgut4t8vq51tdMSFYXk_GDTuBioFeJEFDz3rj1ovVSkts1CcGYib88U48t8eyj1MMa3b6UnNE%2C&lr=213",
+      "paymentOptions": {
+        "canPayByCard": false
+      }
+    },
+    {
+      "__type": "offer",
+      "id": "yDpJekrrgZHsYtkaUxufVMpjxwm0gXU7uB08oPr9uGsPsRTqm93GPQ",
+      "wareMd5": "V-gA5fb0rrRxAy6XZ16WcA",
+      "name": "LEGO 75052 Mos Eisley Cantina - Лего Кантина Мос Эйсли",
+      "description": "Добро пожаловать в шумную и опасную кантину <Мос Айсли> на пустынной планете Татуин! Припаркуй спидер и входи, остерегайся огромного дьюбэка, который пьёт из корыта снаружи. Убедись в том, что Люк, Хан и Оби-Ван взяли своё оружие, прежде чем войти через раздвижную дверь и пройти через сканнер дроидов. Открой здание, чтобы облегчить игру, и закажи напиток, пока группа <Бит>, играющая в кантине, настраивает инструменты. Воссоздай сцены в кантине из фильма <Звёздные войны. Эпизод IV.",
+      "price": {
+        "value": "6900"
+      },
+      "cpa": false,
+      "url": "https://market.yandex.ru/offer/V-gA5fb0rrRxAy6XZ16WcA?hid=10470548&model_id=10953007&pp=929&cpc=jAU5hnB2NCtSd1GEnyRVJwEbi01MDG_tsyf7Wekhr7nVmcawPsLDFsPYsW53CSwbgAazBzZ40ZcymN7tPF4iIGF_egrAmiFCDXsGelKK8xg%2C&lr=213",
+      "model": {
+        "id": 10953007
+      },
+      "onStock": true,
+      "phone": {
+        "number": "+7 (495) 644-68-94",
+        "sanitized": "+74956446894",
+        "call" : "test data"
+      },
+      "warranty": false,
+      "recommended": false,
+      "link": "https://market.yandex.ru/offer/V-gA5fb0rrRxAy6XZ16WcA?hid=10470548&model_id=10953007&pp=929&cpc=jAU5hnB2NCtSd1GEnyRVJwEbi01MDG_tsyf7Wekhr7nVmcawPsLDFsPYsW53CSwbgAazBzZ40ZcymN7tPF4iIGF_egrAmiFCDXsGelKK8xg%2C&lr=213",
+      "paymentOptions": {
+        "canPayByCard": false
+      }
+    },
+    {
+      "__type": "offer",
+      "id": "yDpJekrrgZEnQKmsnCB2f_lxlB1n23cAHSWbgXE0Ni766yBIeKeHSg",
+      "wareMd5": "WE1Rnn7uRntG6OZtHOSnZQ",
+      "name": "Moschino MOS 007/S J5G FQ D61",
+      "description": "С/з очки Moschino MOS 007/S J5G FQ",
+      "price": {
+        "value": "12232"
+      },
+      "cpa": false,
+      "url": "https://market.yandex.ru/offer/WE1Rnn7uRntG6OZtHOSnZQ?hid=433018&pp=929&cpc=nKcviMo1B5AAnH97h0EYPUKLh7zd1t_Glg8QzcSCIuFa4SH3MwP8VEPTU9itkyVF_FXgsqWdwdGZz5PvQnRomaidSGdln6kiwaSNhsqgufI%2C&lr=213",
+      "outletUrl": "https://market-click2.yandex.ru/redir/338FT8NBgRtZwUfhCY-hTSHAcK9UrbYNA0E1RaA4hguTl9zDXwgbFS5-cmosKx7GKmk08PDUJWd1vypZNdi-4jq98ZSGDjRXdA1LvhU_2sSD_ZduMi4zjaswKlnFysm_BiPbWD8eXU_B9Zn_bGDRAvbuugZWQg8FV31vzLcCsqYooT1MRqiGgRXqREmf7EEvG7juvEbq8HL0S8x8wO92xhB8-qzLUI0HefzI1sNouVlEwCH3hs9a9xiVpS71UT_GZ_PnpwoT0qNldj-6UtZInV4Z49bJb9eUXTcdqdI-Ae6EzRK0k02xsTvYRNBGdovJb32ttKhEMlmCpH6v2QgWW4qOSV7QjU_6Qae5hwCkIfNZklkQx6oZvZUK9YEE3vq5zcH_zSgPRkrTPiMNdKGJFJn5FN6-Mv4EIJjazkxal0sCJ3kae2ujKAs1i6VaiD4jR4zEqbprszvaaZ5u-70Aofvk2nXZkmAZ0uZbgnvZgeKEP7wJB5Mz7ajhOAUuJAPKT-vrn9Zoy4UyU_ccJkglG3BmOqB9ZIBmBEN8RpEsBT2QqUNWrR0_gkAcHNiLVhnHre-_kHrhc9AZtrOOVr28WJO67WRcXSVGcfjLH22qWaDl2G2Zq0rVX2A0fSqJY2RqdIdIfHuV2npF520Rlls0TCHQPcVYDWESpXYf9lhHubawC3liVIfOEqXbydQb1H2dJHkLDUWSD-xUyof2F5WdZcK0cOsYCh4VmKkaBu_EAnn65o9uSa8O8mZoGExDCxH5LbxpettBcENxxSypIPyAV5ulMZLUuDNrVeYFcNyDFvTg4v7BxXc1SR723F7fLMUVX5PVtZa4Jg2vGTpXqbGFGRfug4-ORyhunInd9W0a2_aA5mmwgTBWGQ,,?data=41WTYndNxdlaG-5xTfn6okY8p8Pwg5EL5PtKPUoATUEvlEoXLlDZ2UlAhSpDmx5nb0QfMlkKBAP-WSfPWgZauorGLl-mfjFOrJfi7m29oguWPxGcPXo7C7UHjSqVYpa-JLSeCn9OxqrN3YqshFcwXBUebvOxtON3BLMRloLKAd2S2gBeIzVoV3WevrvZSJjk62KKusgmoYw,&b64e=1&sign=804fa85f06c11de3180b68f3f36d97e8&keyno=1",
+      "onStock": true,
+      "phone": {
+        "number": "+7 495 649-60-20",
+        "sanitized": "+74956496020",
+        "call" : "test data"
+      },
+      "warranty": true,
+      "recommended": false,
+      "link": "https://market.yandex.ru/offer/WE1Rnn7uRntG6OZtHOSnZQ?hid=433018&pp=929&cpc=nKcviMo1B5AAnH97h0EYPUKLh7zd1t_Glg8QzcSCIuFa4SH3MwP8VEPTU9itkyVF_FXgsqWdwdGZz5PvQnRomaidSGdln6kiwaSNhsqgufI%2C&lr=213",
+      "paymentOptions": {
+        "canPayByCard": false
+      }
+    },
+    {
+      "__type": "offer",
+      "id": "yDpJekrrgZHDRJojbgABKsQj2Pjn4LiqAOpsFKcPIqvOS0vNe39BUA",
+      "wareMd5": "IeBRHRQtiYNUP7Dxm9Ju0A",
+      "name": "LEGO 75205 Mos Eisley Cantina - Лего Кантина Мос-Эйсли",
+      "description": "Конструктор лего из серии \"Звездные Войны\".",
+      "price": {
+        "value": "3990"
+      },
+      "cpa": false,
+      "url": "https://market.yandex.ru/offer/IeBRHRQtiYNUP7Dxm9Ju0A?hid=10470548&model_id=1971947615&pp=929&cpc=rAGctATqBSbFdrjxfwsCTZBAlAjWttW5lxJ6or6P_fZvJzSaZSAcuqKNsFtn9cIcPTl13ShZxdfJv3kygbh_XlURxUr4XVa2O_U93WZnxUQ%2C&lr=213",
+      "model": {
+        "id": 1971947615
+      },
+      "onStock": true,
+      "phone": {
+        "number": "+7 (495) 644-68-94",
+        "sanitized": "+74956446894",
+        "call" : "test data"
+      },
+      "warranty": false,
+      "recommended": false,
+      "link": "https://market.yandex.ru/offer/IeBRHRQtiYNUP7Dxm9Ju0A?hid=10470548&model_id=1971947615&pp=929&cpc=rAGctATqBSbFdrjxfwsCTZBAlAjWttW5lxJ6or6P_fZvJzSaZSAcuqKNsFtn9cIcPTl13ShZxdfJv3kygbh_XlURxUr4XVa2O_U93WZnxUQ%2C&lr=213",
+      "paymentOptions": {
+        "canPayByCard": false
+      }
+    },
+    {
+      "__type": "model",
+      "id": 1718112275,
+      "name": "Новая Заря Красная Москва Parfum",
+      "kind": "",
+      "type": "MODEL",
+      "isNew": false,
+      "description": "духи",
+      "link": "https://market.yandex.ru/product/1718112275?hid=15927546&pp=929"
+    },
+    {
+      "__type": "offer",
+      "id": "yDpJekrrgZGPKxzMUCng5gNfcQVWjGZ0kflDv6jrVHr41w3uix8_eA",
+      "wareMd5": "U6jB-gDF3MisuGglYSOvGw",
+      "name": "Конструктор Lego Star Wars 75052 Кантина Мос Эйсли",
+      "description": "Кантина – это увеселительное заведение, куда съезжались не только галактические путешественники, но и опасные преступники, такие как охотники за головами и контрабандисты. Каждый посетитель здесь мог рассчитывать на вкусный обед, прохладительный напиток и компанию представителей самых разных рас и планет. Кантина Мос-Эйсли немного отличается от остальных закусочных и баров, так как располагается среди пустыни рядом с главным космопортом планеты Татуин.",
+      "price": {
+        "value": "6649"
+      },
+      "cpa": false,
+      "url": "https://market.yandex.ru/offer/U6jB-gDF3MisuGglYSOvGw?hid=10470548&model_id=10953007&pp=929&cpc=jAU5hnB2NCuXjePprtdxvsUBGebkBjzfuclu0mGwPBuk23NofxtLkES9RQaUifP5Ib0EqXhnOcZQm31w1RYQxTAR1z9cmS0BL20VyxrT11Y%2C&lr=213",
+      "outletUrl": "https://market-click2.yandex.ru/redir/338FT8NBgRvAX-bxjGvu_XZlgNMGUionOPzoWWnLUCTv8E49MP8D48TDQFEaCWuQqP57Fugb5utQinEhchXYBa0hnTgz8-yVNgydZMJiC5foWLf6RIKw4l1fhwddOszT_xIZ_4ZC4l8FaFdI8eaAHIWYFgwrGAqi38kE9lQwcHeTn-5cZRCg-oR2Xr2BzqAdf4zvnRuK8sDU1Obj94VuC1zzpUczJTcSfriNi5emXd3y8KuJJpwAStK307m4YBKNonNrD-eQMAimhO9dl4w7VGorB1BIMBk3uMkTJAj4hl1BIQ5KZ8Vej6hqZ1Tp8rlhhnlZ26NfUFj6Uk56ZuulPw9W8QiAIizUfiWz97F74Sy0cMiitfPs60U-Lukz_RRu8NyOuXbNCC7UsVzr0m-e-H-3f6-1CZeHoJ7xw-h9Vu9Q7o2vq0Cz4wkGJf685HoeI7sv9QmqAAWDiHn5Sl1xgLVFt3LDIStnlW_Hx7OSvfsyOyjfIY7mbDc5IEIYCHrL2y0a3Z_JtcGEra5FEazPXqV_oiLBWJe8Eg-PHSOz0avaWjJTqjz5N-u9JDFgH3PwsHo2211XHP4ILnD202TOAk8A0wXiCcSuFxLJ1p-JJgLxpoDlPmkiDdlh5hiBoeKVeebd0RUmTLO291HXFhQ5fCJxUVl3EmcqKNlSKiJVUB1cpkm3sYQaLIPMAJ-ugVk26K_UdXPvJO70m9aW-QfUP-woJ_efxK5OTFIyV4-uE3nK5VaEvK1MH3nce2Ky2DuZDdzM3XrMNkFRDjyZQhELcnYKwtIZ69Zu-321rnvYUK3qn_9jZIL3IY_i6XmPI8xGatIltAllVHQ38EYDkbBISfa9ALiDHETE?data=41WTYndNxdlaG-5xTfn6okY8p8Pwg5EL5PtKPUoATUEvlEoXLlDZ2Y474nyLPMwpFMehnN_uI8pFEgoBoTD8KX1nb4mIqUBaPBq3hsvPdl_lWHfPuMpWqT0jVlG-I-5WlpOgY22E50flGRmfafmyTw4Nyc0B4HGodEeANDvUNaW6Z_lMSYBs_ijjnfOb9yJZODvlg_PpLNU,&b64e=1&sign=0f20e82e6fd6b79f176cf37c9c6b2d66&keyno=1",
+      "model": {
+        "id": 10953007
+      },
+      "onStock": true,
+      "phone": {
+        "number": "8 (800) 707-47-88",
+        "sanitized": "88007074788",
+        "call" : "test data"
+      },
+      "warranty": true,
+      "recommended": false,
+      "link": "https://market.yandex.ru/offer/U6jB-gDF3MisuGglYSOvGw?hid=10470548&model_id=10953007&pp=929&cpc=jAU5hnB2NCuXjePprtdxvsUBGebkBjzfuclu0mGwPBuk23NofxtLkES9RQaUifP5Ib0EqXhnOcZQm31w1RYQxTAR1z9cmS0BL20VyxrT11Y%2C&lr=213",
+      "paymentOptions": {
+        "canPayByCard": false
+      }
+    },
+    {
+      "__type": "offer",
+      "id": "yDpJekrrgZEcQldoXyV_fLC6NFUK3kjgyfZhLvSsSFVIEMlECWUr4Q",
+      "wareMd5": "TRR3lOKuOpZU1liESF-ToQ",
+      "name": "Moschino MOS 003/S SCL 9O D53",
+      "description": "С/з очки Moschino MOS 003/S SCL 9O",
+      "price": {
+        "value": "9272"
+      },
+      "cpa": false,
+      "url": "https://market.yandex.ru/offer/TRR3lOKuOpZU1liESF-ToQ?hid=433018&pp=929&cpc=BfZiY-hqevYorRolS6LzKGHQeTuc26Ugob6basBM9JwHukDUuvV7H-ws6SwPSZEJsbq8eUhU_6C2wHNKdXWBABbMO-uOhAHeqMkrHaZO-XA%2C&lr=213",
+      "outletUrl": "https://market-click2.yandex.ru/redir/338FT8NBgRs7HI6pqhhw4I32FFR892lZ5Fc7oKpPCt3J2-s3BFCCra9feWo92s7O-Imafqm1pDqGRI0H2u91hCaq-4YZUIMhDIEGzhUOta9psQw1BH-sAI9xhqJYzrV8Uhu1YqkThyhVwfLMxUh4UV-dnwPnR-XXUelE29a1OxiZ9F9eBh85BapAy3DKjpaREEief96ujBLxhL3Se2DsB0mSi2YLoQe-asc3EHX1lEFhIP6YbZ9j27G_FLmCc9-rPR0rbiAfG5iwQbwZXD5UA9f-2KJMyJM1EsKCW9LCY_LDrjZ2zRwfDQ_rjB1Xtn3VkjO8iSfqDl-zdu9OheHQ59JVina2O8rW-0rZUUhpBQWIp_T0neDyPlxUnWmrRnF4_B9FFpoZevJHUaHK1_yHHTUob9igS9lIVfnjnKQvSQq7WcSlzktsoEVb9ucBjH9ochEoxibYehQ9h20LgYsGNskkYw-qHB720SGpvQowdsxxOC2BlZ2ps2t5ELfvYKCeOqTCmsqkgWgxmIPioeVI7NVlCvFxl6xo7_zsdI23gdEq_krtB88Gu5vHhE-ZRu2PT52q1bB49VxVT1t-nSEq9NbDee23XF77urRW1xGUiqm1X0kSPxT9UmB2Q-lQl6OQK3ibAC7qDfHau4UoUUlskWJl_Motu6E1hBHyYNZu-VfDHhxG-KCGt7tSwJJmD1KlphL3oniouvRDAC_RDaUyRV66GFNXUpZKjDfK5M3I-3ARKWJJLXEyiOFMjHk6t5hsFbd2y39Pc9XNmrbNoVqyFlGa5c8SvMw_5OCnrnnlYRsGh8Zt4Fop3HTpMKP6iGPc43eIQNVDgorDWdBXa8YPA78linMis5jAf8HJtgp9wd9f4O4bPiOYOw,,?data=41WTYndNxdlaG-5xTfn6okY8p8Pwg5EL5PtKPUoATUEvlEoXLlDZ2UlAhSpDmx5nb0QfMlkKBAP-WSfPWgZauorGLl-mfjFOrJfi7m29ogtLFLakUWB49SMqqNlbez6T9BpRumacEECeVAUIxguaEcMHNTaT5Kzx8qB1WjcOBOR320VqSvXnrxSrW450OR3ldTVR7JAF2zI,&b64e=1&sign=3c3b4fcc0496e9557f617775f4a16654&keyno=1",
+      "onStock": true,
+      "phone": {
+        "number": "+7 495 649-60-20",
+        "sanitized": "+74956496020",
+        "call" : "test data"
+      },
+      "warranty": true,
+      "recommended": false,
+      "link": "https://market.yandex.ru/offer/TRR3lOKuOpZU1liESF-ToQ?hid=433018&pp=929&cpc=BfZiY-hqevYorRolS6LzKGHQeTuc26Ugob6basBM9JwHukDUuvV7H-ws6SwPSZEJsbq8eUhU_6C2wHNKdXWBABbMO-uOhAHeqMkrHaZO-XA%2C&lr=213",
+      "paymentOptions": {
+        "canPayByCard": false
+      }
+    },
+    {
+      "__type": "offer",
+      "id": "yDpJekrrgZG1Wht_xjSPsjxn9yoCktEu1tNnzUE0JhSOZMEIp0GbLQ",
+      "wareMd5": "Ewnm0gs_TVh9KtffMZ3BJQ",
+      "name": "Mos.MONREALE 108157 30x30 Naxos",
+      "description": "",
+      "price": {
+        "value": "2286"
+      },
+      "cpa": false,
+      "url": "https://market.yandex.ru/offer/Ewnm0gs_TVh9KtffMZ3BJQ?hid=91635&pp=929&cpc=z60DDHf1FIjI0gWuses5zVY7F2eITmMaM9NaB-q4pLxQomslbWL3AeKNqD7WyTV3VPISfOP0hqVmOMVEkcJtGFtvTXTBfaNF4eB_7TZGtSQ%2C&lr=213",
+      "outletUrl": "https://market-click2.yandex.ru/redir/338FT8NBgRuTmOq-JMY0Dq3Z1w1pf4f1YPL_266BRCeB9JaVB7Qhl8hc1u6V12i4X1AvN9ly1C-3h-msJc5pABwIOCSgVr19bFWA1UwXjuQ1X7ncQ0AGNZd6gaIct4UL2PvISrXIdGQ59vwMdnzBYcFiN9jlq9C1sNeVFLF0j9AfuxiTDfYUF5xDW8h6lQK2FSAIa3IWcdIIA0gPGjhyk-Ha6nQ3EQkronHY8JuteqUJ0xSEGctmXpOeAopIfLIipqbW6WPn5EwnANXRTgKii0W1pmjiqMYNqbvDyQ_hrHTgDz5AZ3TAfOZ7bJuuWxtjBg-UDCpOLYU4NZFfzgV4zrcR1bFKFsD8wrA9R_qkF_pLWfLZfpI-zzQkJSKkx-aJ0xmgvGrd5t3wV82MBCodxPHzrVq8bHEpjfeoFpceLwPJHN890-gk21D2tNOyoOf260RMLXdS6T4qUdQa2qQUmT4EmTeOJc8ecG_O52hvln34SNeEz1jHj2AduqFyKF8YA72JY_6XEFrQsth0myuermv60rULCS6SgricP5XF4p-2e9LItzTZuZLwXiXJEQXrwiRS01LBw-uZFPRnDmbzNydE_-NBJNc3Z1m-iwBt5pgxWZF2actyiQQ9ROsRY4PkgSZAP5w8xdIFR4uzPuhMtYSyZ5qc-8c0kbT7EkeWdrhcT_q3wqvbkHK2VQPl8mmA4Os0Rsj0w-3WYtnKnKxsuVrTxY8QfVclvMSDMRsg-l6bTA2v8gNIDJxiL6HUdzWMNKK-6WoDEm4jxk6J3o2N_qrChsDkA3h40A1CoH5JFyM6LofpnYBdTPGM-tJJ2ve4fmE5UgufILyq9gesCJdYCQ,,?data=41WTYndNxdlaG-5xTfn6okY8p8Pwg5EL5PtKPUoATUEvlEoXLlDZ2eo32wTGKNUknhUrGlmSY-bAolU7MWA9TPvl9dpl2ZvfuLT6UIsVNcfaj0OwcbygsI6fzNzErsDT-iiJPlTIBA66jv0E_k2Bt4pFNFH6y2R9lTD9bP-i5X4iiFsKf6BxqXy2nfLCumioW1umFQkp2Yc,&b64e=1&sign=e3496b48fa4b151ed19ba95144d06921&keyno=1",
+      "phone": {
+        "number": "+7916236-38-94",
+        "sanitized": "+79162363894",
+        "call" : "test data"
+      },
+      "warranty": false,
+      "recommended": false,
+      "link": "https://market.yandex.ru/offer/Ewnm0gs_TVh9KtffMZ3BJQ?hid=91635&pp=929&cpc=z60DDHf1FIjI0gWuses5zVY7F2eITmMaM9NaB-q4pLxQomslbWL3AeKNqD7WyTV3VPISfOP0hqVmOMVEkcJtGFtvTXTBfaNF4eB_7TZGtSQ%2C&lr=213",
+      "paymentOptions": {
+        "canPayByCard": false
+      }
+    },
+    {
+      "__type": "offer",
+      "id": "yDpJekrrgZEo0CeUttRAL9G625Ghj6XkF_3enlgHpC_MgJW2eJh28g",
+      "wareMd5": "wZwDWHtmqedHRhIW9Knr8g",
+      "name": "Анти Мос Детский спрей от комаров с ромашкой Vilenta Mask",
+      "description": "Детский спрей от комаров с ромашкой Vilenta Anti Mos предназначен для надежной защиты ребенка от кровососущих насекомых. Активно действует на протяжении 2-х часов при нанесении на кожу, до 5 суток при нанесении на ткань.",
+      "price": {
+        "value": "158"
+      },
+      "cpa": false,
+      "url": "https://market.yandex.ru/offer/wZwDWHtmqedHRhIW9Knr8g?hid=90690&pp=929&cpc=2g1ZfSI20ZDhq-EA8B437PANE0UpM4iRJPldeYuyYioLLBHGTuXVg2OYUrwI4ZO-Vyj7NB_8hcE50He3SAc9OwpTHNizTfmgxlFYkPDULfo%2C&lr=213",
+      "outletUrl": "https://market-click2.yandex.ru/redir/338FT8NBgRuBsHAK1GFgOZ_f9w9AKgbFnjBhMJIqk-lwHu79-ZJx9oP33aeteIl12aunx73YYtEe7V4p7yblF0ltMvwHB3eFB-cEpkFGAfFKoYyfwMoKHeuUjJuMomLb7QjpbNRJUaxcrVthqv2YkZDen6Ggo0N1Y3Zm_HT1kT_1z_rOJ13orK8QgUvSX7ZovRt4N4u6DJPsUtGA3VVPv53lzJe112qYXAkpwLWvIjwtltwCVUFXprQOQAF_68T7pC89awSfv_q0pI2ptYOfpxxuLt6pI5eQuYI4u1zPJJmImbQbJkw77_cYh0cvLVCpQLfH9pNDTRI3CK2-XX-5qKZtk9jKKwTkTX83uFlOHJJF4hzJG4vDx9X8Flgr0VKrJq3mLN5kJdGlPJlTNjEX0n2U2F6vA3Nx7Tpm92zxnbbQHeAobdyOJTvJ3dFLh5L6Q0BE3wdDB3TDj3CIsOGBGrME6tZs1gTF8-ooo710uFnGUavley7Tp0k2rUYqIDstw5pGFXZsZ_UKO-OdhN6QXF2wly1t3bmdYfkP0BHFVVeS1m2T3SQCg5skz0mOKWx_lR0IPF4zh8q7HUvl6u9UasVHdRhP-lIYZIgMShthxYLCKXicBSOfS_bYdtd2Wym-qVQubEZ51Z7nRB2cCsEsdDyTfOEPUOxwrkDg6Oe2Mgl2dqjNOa2R-cypSO0frgoDtf1OEPlIbBr1PmUsSwE5KDFTOR6qpgRDpjXwlcO88K2mabytJSFhyQSl_H5fKL2VygaWQTfl05cWbBYigVfQs5QX-cB1jdyE0IAXGz1aWD-_lvWgKwnwNZDs3ekSXoYt3vaC3d2x62k,?data=41WTYndNxdlaG-5xTfn6okY8p8Pwg5EL5PtKPUoATUEvlEoXLlDZ2RhrNyOGLuzcFd5xTb4PQ4F9CCs905ePzsaL6pdWLl_jdlBaEHC88aVSsaD0rp5QKDvZUxPL3r_jhjTObXhRMUgx_Tv5Q-JFbaPowmBidKnNp4soysStK3DkZrzVOo8AYFiyHISnOFs1EPpYfsMrjhM,&b64e=1&sign=c11b36db0f1dd55ee55bada4526fdd89&keyno=1",
+      "phone": {
+        "number": "+7 (495) 369-06-79",
+        "sanitized": "+74953690679",
+        "call" : "test data"
+      },
+      "warranty": true,
+      "recommended": false,
+      "link": "https://market.yandex.ru/offer/wZwDWHtmqedHRhIW9Knr8g?hid=90690&pp=929&cpc=2g1ZfSI20ZDhq-EA8B437PANE0UpM4iRJPldeYuyYioLLBHGTuXVg2OYUrwI4ZO-Vyj7NB_8hcE50He3SAc9OwpTHNizTfmgxlFYkPDULfo%2C&lr=213",
+      "paymentOptions": {
+        "canPayByCard": false
+      }
+    }
+  ]
+}

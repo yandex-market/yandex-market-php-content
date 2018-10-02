@@ -1,0 +1,247 @@
+{
+  "status": "OK",
+  "context": {
+    "region": {
+      "id": 213,
+      "name": "Москва",
+      "type": "CITY",
+      "childCount": 14,
+      "country": {
+        "id": 225,
+        "name": "Россия",
+        "type": "COUNTRY",
+        "childCount": 10
+      }
+    },
+    "currency": {
+      "id": "RUR",
+      "name": "руб."
+    },
+    "page": {
+      "number": 1,
+      "count": 10,
+      "total": 65820,
+      "totalItems": 658194
+    },
+    "processingOptions": {
+      "adult": false
+    },
+    "id": "1534233950296/7e203ba3ff33f3ba3aa35bd0d94a3af8",
+    "time": "2018-08-14T11:05:52.657+03:00",
+    "marketUrl": "https://market.yandex.ru?pp=929"
+  },
+  "items": [
+    {
+      "__type": "model",
+      "id": 10984553,
+      "name": "Радар-детектор КАРКАМ СТЕЛС 2",
+      "kind": "",
+      "type": "MODEL",
+      "isNew": false,
+      "description": "обнаружение \"Стрелки\", обнаружение системы\"Робот\", K, Ka, X, Instant-On"
+    },
+    {
+      "__type": "model",
+      "id": 10984555,
+      "name": "Радар-детектор КАРКАМ СТЕЛС 3+",
+      "kind": "",
+      "type": "MODEL",
+      "isNew": false,
+      "description": "обнаружение \"Стрелки\", обнаружение системы\"Робот\", K, Ka, X, GPS, Instant-On"
+    },
+    {
+      "__type": "model",
+      "id": 6401205,
+      "name": "Автомобильная шина Bridgestone Potenza RE11",
+      "kind": "",
+      "type": "GROUP",
+      "isNew": false,
+      "description": "летние, Шипы — нет, Технология RunFlat — нет, 16 / 17 / 18 / 19",
+      "modificationCount": 28
+    },
+    {
+      "__type": "model",
+      "id": 10984554,
+      "name": "Радар-детектор КАРКАМ СТЕЛС 3",
+      "kind": "",
+      "type": "MODEL",
+      "isNew": false,
+      "description": "обнаружение \"Стрелки\", обнаружение системы\"Робот\", K, Ka, X, Instant-On"
+    },
+    {
+      "__type": "model",
+      "id": 8475738,
+      "name": "Автомобильная шина Viatti Strada Asimmetrico V-130",
+      "kind": "",
+      "type": "GROUP",
+      "isNew": false,
+      "description": "летние, Шипы — нет, Технология RunFlat — нет, Камерные — нет, Диагональные — нет, 13 / 14 / 15 / 16 / 17 / 18",
+      "modificationCount": 55
+    },
+    {
+      "__type": "model",
+      "id": 12221908,
+      "name": "Автомобильная шина Matador MP 47 Hectorra 3",
+      "kind": "",
+      "type": "GROUP",
+      "isNew": false,
+      "description": "летние, Шипы — нет, Технология RunFlat — нет, Камерные — нет, Диагональные — нет, 13 / 14 / 15 / 16 / 17 / 18 / 19 / 20 / 21",
+      "modificationCount": 132
+    },
+    {
+      "__type": "model",
+      "id": 7951061,
+      "name": "Автомобильная шина Bridgestone Turanza T001",
+      "kind": "",
+      "type": "GROUP",
+      "isNew": false,
+      "description": "летние, Шипы — нет, Технология RunFlat (опционально), Камерные — нет, Диагональные — нет, 14 / 15 / 16 / 17 / 18 / 19",
+      "modificationCount": 136
+    },
+    {
+      "__type": "offer",
+      "id": "yDpJekrrgZHS9APvs18HIIB3s-nDUDorrR1eh5TG5hItQDmXVdUw9w",
+      "wareMd5": "8vSlxtDTSZb1bMRMfGAAMw",
+      "name": "Масло моторное TOTAL QUARTZ Ineo ECS 5w30 4л 151510",
+      "description": "",
+      "price": {
+        "value": "1300"
+      },
+      "cpa": false,
+      "url": "https://market.yandex.ru/offer/8vSlxtDTSZb1bMRMfGAAMw?hid=90478&model_id=12738102&pp=929&cpc=int7CK5dTM58-og40Zg4cJ9awfgtGVXqHqHva_5BhAjv64GXJLMbOnOCLkPnrUbjho3eSq26HHVmkUq-TdCwTzVPr8oXyHD_EnfGnbk1YGk%2C&lr=213",
+      "outletUrl": "https://market-click2.yandex.ru/redir/338FT8NBgRsPZ5AnNmX7lV23Gn01xW37zHlND5ZpmKNlDSjQzdG9Xze9DXxrRVFbWvt3OvUNQeu5wxOdbIOAAEFjhdVps60vWRC4cifoNpU2YWPHWSp2FAH9IHK4sIEwjP5iObi77IgMlyCZfXgDuBy3KMLJ9LZYiYga5hueevmy1Iywhqc_ohJp6sGG8DAQj2JcEa9xwkQp9yJsvcYhxkoLezpSSAC4x7SJ-qF1qmV50OQphTSsQF7NAJ7FJBhF-M5-ew3FLQBAmMjhAOrug9ZW3y3mIP5lNXurk0aDxbPp4oC-2pDHTkLlAHVMYbIxoa9qnSTGGYCtp-1o4QOGTuCSoBEwJNMF2qesFSS9c8VYEdTlM4q5SF5kgsPlcZYFEA-m4ljTlNrwDETQ0O6wRvtBYODHDmLPeiyNyCrHFHmExv1mKwAivwnQztPcyqKX9YDBw6X_lsDGfHQOfVfzlTX9fLRh75gMS2-hT_E50OJnzcuq-L6z1vCBrLA3tmJBKVtJSVe78h9jAHDdSjfdaZCg7qGPoPZgQOxkLlB3n_fnYbBEFNhfehvY7dUw2e-2R85vXX5N9y1lsF_KOibStRe5UiiImGobmR93FYduZPMLHH_x4bXvrLPDKmMkS1qaF6Aga1cNqfLEDiZ6IXnl1-ZqCmNEXUNXzrgTP5bWO5BXEdJm-T5XBvl8yzYMIYB9WGp1cfouhU-6iqQLwrKkuUWHJrqsFDKP-vM4z9C90DJJJ5MydrazKz-AjsGRAc45ap02LcfWyYLPnIMwqcC54MWX3x4fzkrRcwAWWr1cQmPqHMMjRTzSKkaNrp9e4RySDr7QSTN6eKEgEflMzbqGwjJhTCKNtbX5?data=41WTYndNxdlaG-5xTfn6okY8p8Pwg5EL5PtKPUoATUEvlEoXLlDZ2UZwsTW6C-x4ZeCUpvnr7c8h4z8YLe-gBVXv5x-BMOsDwa9HG-d3FUqPsAo2Kux31UiHIc0kzw6F7vE5O1LHQfM62nzp4zDNy2qh8orT34IOMfNfWIgBCUS0OybfGJs3fEZSSm7LhF8y3F9xBFUmSu0,&b64e=1&sign=86bfb2060a9bf284c2165d02ad18429f&keyno=1",
+      "model": {
+        "id": 12738102
+      },
+      "onStock": true,
+      "phone": {
+        "number": "+74999554195",
+        "sanitized": "+74999554195"
+      },
+      "warranty": false,
+      "recommended": false,
+      "paymentOptions": {
+        "canPayByCard": false
+      }
+    },
+    {
+      "__type": "offer",
+      "id": "yDpJekrrgZHW6NqhCE6iqPt_dPP-rXvzQbYWKGkgX5oj-QYkeqNMkQ",
+      "wareMd5": "2dYdVcuya8bK3wCwWE8EkA",
+      "name": "Шины 195/65 R15 Viatti Strada Asimmetrico V-130 91H",
+      "description": "15/195/65 Viatti Strada Asimmetrico V-130 91H",
+      "price": {
+        "value": "2160"
+      },
+      "cpa": false,
+      "url": "https://market.yandex.ru/offer/2dYdVcuya8bK3wCwWE8EkA?hid=90490&model_id=8475759&pp=929&cpc=fY2GjUhBB6Ub88GGreTGjEhX7PbRjpnl0bKMP0Qw-OTOefVo1yL0RB91sfTQlYu8YmZpGhIR0f5BSppRWHRergcucVdYTCLS61C--EIUBU0%2C&lr=213",
+      "outletUrl": "https://market-click2.yandex.ru/redir/338FT8NBgRsTLIhL10SRUYaqcJcSa9C932CvlNn6ifTXS5sP3drI4O1JN1Lxkfz06xwA1wmriEXeR6OmbuODHuMqKOczCC-EE71Dc8zIEm4RzhWkdlUkiPRMhkVf6gG0eu5u6Ibjk2-z7cXxnFWt4di3Uy43CUW_RIEKPecvGMBP2ZLu3573tPdYv065bm5luR7aR-KsZrHGsCGo0Tga1WZwYgDb7eK_H3pVG9Ee9Kxn-Q17tJ5cmW064cXlwhhvGRyctbhjwZnAUaCfdCtYTEgJdTTRA82Isnf8bqrUezV3hUfaiO8keLBtdRQHwuG9F43EDyiebjXXnltO4KhTyVLxSfjfURDGmRy9sOa6JXiaKCleeE0M3RmPr4_lYaIJSdqJ3ZV5RV1wjNKeOvYDRg9qeGt118OHfC2JybjXoL1VdnmnKSHIPLlw3hGpPqhhe7KVKhSJFO6_m6etUXqNNVXa57SY9wHnrx0x7VtOU6TBJux1ecVM7yAAGMDVXXkWSYHe8jJsCfVG1j5HsmaHb5QbIyFm6JllDrF-nqt_sXrkeITCH1wCLxiRogXUDacnClFfcwCs24ZO7jdoYA1ZnNz8yfE4UysMxZkGJfauScFIXT5soj8KDCUKp2OKXciqLHz_lWQcCqdsUtdM4Q-hv3-W9OLbTeYL_cHDTBwnm1nKUmwclg0lzl-t-5Wxj5EzTwpS8IKPzStxU90hkJWfT_838ribACddCsaQpqVcVbrFgH7fwHa7fWNQ4hzN57W0Vk_TZ8c279vpDd-6F_qHrk-Dxnmm_Vf4F9xcZPBU0QmpF0YRCYZm6WtzzgMavHijUQFknVyjnxEbTkxnFZqlwcMd8kiqGCFQ?data=41WTYndNxdlaG-5xTfn6okY8p8Pwg5EL5PtKPUoATUEvlEoXLlDZ2Z24TIgm77uAxkVASUmjzbcHbv97-lAr56AfhJ3U-Mc96hJkDUhNk1IP5W4hM_WbrlFsEIPf5kwXOO9auFO9Boo995M3sqdO8MMLqPH1Mx53j9SsoJ2VVgDGNJwlZszwvSXfzvoIUu8uVSDNGS9I_Ak,&b64e=1&sign=f2a2f2f423dd3d7267156be8f0043718&keyno=1",
+      "model": {
+        "id": 8475759
+      },
+      "onStock": true,
+      "phone": {
+        "number": "+7 (495) 374-59-59",
+        "sanitized": "+74953745959"
+      },
+      "warranty": true,
+      "recommended": false,
+      "paymentOptions": {
+        "canPayByCard": false
+      }
+    },
+    {
+      "__type": "offer",
+      "id": "yDpJekrrgZEiHh_n9ikI8ZeqNf9JMAFPQc4jwMMI-gEYJPgMlSK1gg",
+      "wareMd5": "rpZr34gnF9LXLqiqCjDI_Q",
+      "name": "Моторное масло Shell \"Helix Ultra\" 0w40, синтетика, 4 л",
+      "description": "Синтетические масло Ultra 0W-40 от \"Шелл\", произведенное на основе новейших технологий, подходит для современных двигателей, работающих на бензине, дизеле, газе и биотопливе. Оно обеспечивает отменную чистоту двигателя. Низкая вязкость и пониженный коэффициент трения гарантируют дополнительную экономию топлива до 1,9%. Масло Shell 0W-40 увеличивает ресурс мотора, защищая его от износа и нейтрализуя образующиеся во время сгорания топлива кислоты.[Fiat 9.55535-Z2], MB-Approval 226.5, MB-Approval 229.5",
+      "price": {
+        "value": "2199"
+      },
+      "cpa": false,
+      "url": "https://market.yandex.ru/offer/rpZr34gnF9LXLqiqCjDI_Q?hid=90478&model_id=12701096&pp=929&cpc=jeherTzA4BYJkMhMOTBs5VqA9obsWV4jw3e6kDflfPqYsy7fgLWYU-RsEiNIk71vFtsoW7DVKzALxU7Dhs703DbMGTpF8k8DiShxuavMevg%2C&lr=213",
+      "outletUrl": "https://market-click2.yandex.ru/redir/338FT8NBgRs-qmWRU5fXDqATtzuuofbOf0_difwXc-7-eq3YCiZiYWK1l1h4Y1nKpePvWWtxWZ_DC9jsw6rSfFlREFyiWNDJ-adxyBj_UVskaajHZzPi9UT6vceuLrrJxZv6uY2Tmzoi9HHKj91N477pPMW6l3AIbKp3vFN6tTBd4BI2YbuBgZyPR1i1oTLNsDX7G-2V_RNqFTIad864ByXcDPRhcm0SdfMTgirdzuYHN57ix2wDnnHbcyAKvcAxuaX7o4ixT6H1D3Gpgjc05YJLh4Mr7Z6VxTjq3k3WEw3ZVMQqd08Pms-kG4wwikmLod5EPH_RenG7rgqL_Va2FKO0vTYAozmHDNcvJFX8X1yVw60c1rNQs5aD-EE4Kf8VtfUgN2YBQmSsAcri-aYt1yE-H_beYKQXUzg6IQItq5gE8GyyKwSFhKhhCK5DvPDEbakPt0UZUL0AO-IWVtKM0teWe1fulIn4_OXPu9rMrXu_lYZslEC9OtHD35F5AcEp2aK8wwZV-vdd9ep0XTy9m_gKiGbzydrjNI-80NzIGx9v_qyH996PFhbs-06kn4LmeP51wqIS7gNU5E4tQUNnr1WH0CWuDwXpzzoJVG8jQdF15Tm4127n4dCpJ9bmEgxldf56yR1OqlGqnNuudrT-3s3C8YyTQIPshwwPOLjygV5T52zqUfm44VWFicLk0lDsTKx0YBxFQPHG2jubsAo3WtQxAAhITBLeXbLd2YiZ98RMR9SPA2eIwvqwIpZsfFdC6PteskV8sqFxWzSaCZRWOyZqIuFcR65fXb1PlfBLeTVYz5S-Ww4uV7DTYqzG0V7XkjWcZId5dqkujVR5XFpEAnYez8WXbkD0?data=41WTYndNxdlaG-5xTfn6okY8p8Pwg5EL5PtKPUoATUEvlEoXLlDZ2cgu-yFWmVG6C0C3Dzlt1h4EUIlYLlPC9XmdQ6ZeuPlUZLTbk6341Z0RNq7LAZgs_WryqmyxVaQaASDerbTMiAjCg6VI1j81-C-Rxu7mR0eoJ_TFy2OYc1k6JTMP3-WdDsD_ZO4CQjes&b64e=1&sign=d7ad1b58edb4e3985814dd26d8972e05&keyno=1",
+      "model": {
+        "id": 12701096
+      },
+      "onStock": true,
+      "phone": {
+        "number": "+7 (495) 730 67 67",
+        "sanitized": "+74957306767"
+      },
+      "warranty": false,
+      "recommended": false,
+      "paymentOptions": {
+        "canPayByCard": false
+      }
+    }
+  ],
+  "categories": [],
+  "sorts": [
+    {
+      "text": "по популярности",
+      "options": []
+    },
+    {
+      "text": "по цене",
+      "field": "PRICE",
+      "options": [
+        {
+          "id": "aprice",
+          "how": "ASC",
+          "text": "Сначала дешёвые"
+        },
+        {
+          "id": "dprice",
+          "how": "DESC",
+          "text": "Сначала дорогие"
+        }
+      ]
+    },
+    {
+      "text": "по рейтингу",
+      "field": "QUALITY",
+      "options": [
+        {
+          "id": "quality",
+          "how": "DESC",
+          "text": "По рейтингу"
+        }
+      ]
+    },
+    {
+      "text": "по отзывам",
+      "field": "OPINIONS",
+      "options": [
+        {
+          "id": "opinions",
+          "how": "DESC",
+          "text": "По отзывам"
+        }
+      ]
+    },
+    {
+      "text": "по размеру скидки",
+      "field": "DISCOUNT",
+      "options": [
+        {
+          "id": "discount_p",
+          "how": "DESC",
+          "text": "По размеру скидки"
+        }
+      ]
+    },
+    {
+      "text": "по новизне",
+      "field": "DATE",
+      "options": [
+        {
+          "id": "ddate",
+          "how": "DESC",
+          "text": "Сначала новые"
+        }
+      ]
+    }
+  ]
+}

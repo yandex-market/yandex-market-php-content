@@ -1,0 +1,101 @@
+{
+  "context": {
+    "region": {
+      "id": 225,
+      "name": "Россия",
+      "type": "COUNTRY",
+      "childCount": 10,
+      "country": {
+        "id": 225,
+        "name": "Россия",
+        "type": "COUNTRY",
+        "childCount": 10
+      }
+    },
+    "currency": {
+      "id": "RUR",
+      "name": "руб."
+    },
+    "page": {
+      "number": 1,
+      "count": 10,
+      "total": 12
+    },
+    "id": "1534150766075/728f5faeed2b9cd25b86104aa8b0a3e7",
+    "time": "2018-08-13T11:59:26.079+03:00",
+    "marketUrl": "https://market.yandex.ru?pp=1001"
+  },
+  "suggests": [
+    {
+      "id": 213,
+      "name": "Москва",
+      "type": "CITY",
+      "childCount": 0,
+      "fullName": "Москва (Москва и Московская область)"
+    },
+    {
+      "id": 20204,
+      "name": "Мосальск",
+      "type": "CITY",
+      "childCount": 0,
+      "fullName": "Мосальск (Калужская область)"
+    },
+    {
+      "id": 27937,
+      "name": "Мостиска",
+      "type": "CITY",
+      "childCount": 0,
+      "fullName": "Мостиска (Львовская область, Украина)"
+    },
+    {
+      "id": 26007,
+      "name": "Мосты",
+      "type": "CITY",
+      "childCount": 0,
+      "fullName": "Мосты (Гродненская область, Беларусь)"
+    },
+    {
+      "id": 40608,
+      "name": "Мосул",
+      "type": "CITY",
+      "childCount": 0,
+      "fullName": "Мосул (Мухафаза Нинава, Ирак)"
+    },
+    {
+      "id": 105183,
+      "name": "Мосс",
+      "type": "CITY",
+      "childCount": 0,
+      "fullName": "Мосс (Эстфолл, Норвегия)"
+    },
+    {
+      "id": 105549,
+      "name": "Моста",
+      "type": "CITY",
+      "childCount": 0,
+      "fullName": "Моста (Северная провинция, Мальта)"
+    },
+    {
+      "id": 103817,
+      "name": "Московский",
+      "type": "CITY",
+      "childCount": 0,
+      "fullName": "Московский (Москва и Московская область)"
+    },
+    {
+      "id": 27017,
+      "name": "Моспино",
+      "type": "CITY",
+      "childCount": 0,
+      "fullName": "Моспино (Донецкая область, Украина)"
+    },
+    {
+      "id": 20287,
+      "name": "Московский район",
+      "type": "CITY_DISTRICT",
+      "childCount": 0,
+      "fullName": "Московский район (Санкт-Петербург, Санкт-Петербург и Ленинградская область)"
+    }
+  ],
+  "status": "OK"
+}

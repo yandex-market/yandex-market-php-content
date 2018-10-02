@@ -1,0 +1,46 @@
+{
+  "status": "OK",
+  "context": {
+    "region": {
+      "id": 225,
+      "name": "Россия",
+      "type": "COUNTRY",
+      "childCount": 10,
+      "country": {
+        "id": 225,
+        "name": "Россия",
+        "type": "COUNTRY",
+        "childCount": 10
+      }
+    },
+    "currency": {
+      "id": "RUR",
+      "name": "руб."
+    },
+    "id": "1534162907139/eeced9934608fda2a50d43115834c31f",
+    "time": "2018-08-13T15:21:47.157+03:00",
+    "marketUrl": "https://market.yandex.ru?pp=930"
+  },
+  "model": {
+    "id": 37981612,
+    "name": "Холодильник Hotpoint-Ariston HFP 8182 MOS",
+    "kind": "",
+    "type": "MODEL",
+    "isNew": false,
+    "description": "холодильник, 295л, 2-камерный, генератор льда, 60x64x185см, бежевый",
+    "photo": {
+      "width": 267,
+      "height": 701,
+      "url": "https://avatars.mds.yandex.net/get-mpic/1244413/img_id9154278249912833197.jpeg/orig"
+    },
+    "category": {
+      "id": 15450081,
+      "name": "Холодильники",
+      "fullName": "Холодильники",
+      "childCount": 0,
+      "advertisingModel": "HYBRID",
+      "viewType": "LIST"
+    },
+    "link": "https://market.yandex.ru/product/37981612?hid=15450081&pp=930"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "status": "OK",
+  "context": {
+    "region": {
+      "id": 225,
+      "name": "Россия",
+      "type": "COUNTRY",
+      "childCount": 10,
+      "country": {
+        "id": 225,
+        "name": "Россия",
+        "type": "COUNTRY",
+        "childCount": 10
+      }
+    },
+    "currency": {
+      "id": "RUR",
+      "name": "руб."
+    },
+    "page": {
+      "number": 1,
+      "count": 10,
+      "total": 8934
+    },
+    "id": "1534243481813/c67386cfb2e3d593d64d705699fa96b5",
+    "time": "2018-08-14T13:44:41.819+03:00",
+    "marketUrl": "https://market.yandex.ru?pp=1001"
+  },
+  "vendors": [
+    {
+      "id": 1042232,
+      "name": "Horizon",
+      "site": "http://www.world.horizonfitness.com",
+      "picture": "https://avatars.mds.yandex.net/get-mpic/199079/img_id8656841439333131403/orig",
+      "isFake": false
+    },
+    {
+      "id": 10737902,
+      "name": "Evigfloor",
+      "site": "http://www.evigfloor.ru",
+      "isFake": false
+    },
+    {
+      "id": 8339286,
+      "name": "So Bin Ich",
+      "isFake": false
+    },
+    {
+      "id": 15566604,
+      "name": "Ветспектрум",
+      "isFake": false
+    },
+    {
+      "id": 15963433,
+      "name": "Kambly",
+      "site": "https://www.kambly.com/",
+      "isFake": false
+    },
+    {
+      "id": 15055919,
+      "name": "Perstorp",
+      "site": "https://www.perstorp.com",
+      "isFake": false
+    },
+    {
+      "id": 8337856,
+      "name": "ICHI",
+      "site": "http://www.ichi.biz",
+      "picture": "https://avatars.mds.yandex.net/get-mpic/96484/img_id349184322997697367/orig",
+      "isFake": false
+    },
+    {
+      "id": 8335013,
+      "name": "Black Horns",
+      "site": "http://www.black-horns.ru",
+      "isFake": false
+    },
+    {
+      "id": 14247645,
+      "name": "Ibera",
+      "site": "http://www.ibera.info",
+      "isFake": false
+    },
+    {
+      "id": 13557157,
+      "name": "Black Circus",
+      "isFake": false
+    }
+  ]
+}

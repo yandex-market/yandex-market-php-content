@@ -1,0 +1,151 @@
+{
+  "status": "OK",
+  "context": {
+    "region": {
+      "id": 225,
+      "name": "Россия",
+      "type": "COUNTRY",
+      "childCount": 10,
+      "country": {
+        "id": 225,
+        "name": "Россия",
+        "type": "COUNTRY",
+        "childCount": 10
+      }
+    },
+    "currency": {
+      "id": "RUR",
+      "name": "руб."
+    },
+    "page": {
+      "number": 1,
+      "count": 10,
+      "total": 1
+    },
+    "id": "1534150578336/44492983f147c72ba99106e0d1f990c8",
+    "time": "2018-08-13T11:56:18.339+03:00",
+    "marketUrl": "https://market.yandex.ru?pp=1001"
+  },
+  "regions": [
+    {
+      "id": 3,
+      "name": "Центральный федеральный округ",
+      "type": "COUNTRY_DISTRICT",
+      "childCount": 19,
+      "country": {
+        "id": 225,
+        "name": "Россия",
+        "type": "COUNTRY",
+        "childCount": 10
+      }
+    },
+    {
+      "id": 17,
+      "name": "Северо-Западный федеральный округ",
+      "type": "COUNTRY_DISTRICT",
+      "childCount": 12,
+      "country": {
+        "id": 225,
+        "name": "Россия",
+        "type": "COUNTRY",
+        "childCount": 10
+      }
+    },
+    {
+      "id": 26,
+      "name": "Южный федеральный округ",
+      "type": "COUNTRY_DISTRICT",
+      "childCount": 9,
+      "country": {
+        "id": 225,
+        "name": "Россия",
+        "type": "COUNTRY",
+        "childCount": 10
+      }
+    },
+    {
+      "id": 40,
+      "name": "Приволжский федеральный округ",
+      "type": "COUNTRY_DISTRICT",
+      "childCount": 16,
+      "country": {
+        "id": 225,
+        "name": "Россия",
+        "type": "COUNTRY",
+        "childCount": 10
+      }
+    },
+    {
+      "id": 52,
+      "name": "Уральский федеральный округ",
+      "type": "COUNTRY_DISTRICT",
+      "childCount": 8,
+      "country": {
+        "id": 225,
+        "name": "Россия",
+        "type": "COUNTRY",
+        "childCount": 10
+      }
+    },
+    {
+      "id": 59,
+      "name": "Сибирский федеральный округ",
+      "type": "COUNTRY_DISTRICT",
+      "childCount": 14,
+      "country": {
+        "id": 225,
+        "name": "Россия",
+        "type": "COUNTRY",
+        "childCount": 10
+      }
+    },
+    {
+      "id": 73,
+      "name": "Дальневосточный федеральный округ",
+      "type": "COUNTRY_DISTRICT",
+      "childCount": 11,
+      "country": {
+        "id": 225,
+        "name": "Россия",
+        "type": "COUNTRY",
+        "childCount": 10
+      }
+    },
+    {
+      "id": 381,
+      "name": "Прочее",
+      "type": "OTHER",
+      "childCount": 0,
+      "country": {
+        "id": 225,
+        "name": "Россия",
+        "type": "COUNTRY",
+        "childCount": 10
+      }
+    },
+    {
+      "id": 382,
+      "name": "Общероссийские",
+      "type": "OTHER",
+      "childCount": 0,
+      "country": {
+        "id": 225,
+        "name": "Россия",
+        "type": "COUNTRY",
+        "childCount": 10
+      }
+    },
+    {
+      "id": 102444,
+      "name": "Северо-Кавказский федеральный округ",
+      "type": "COUNTRY_DISTRICT",
+      "childCount": 9,
+      "country": {
+        "id": 225,
+        "name": "Россия",
+        "type": "COUNTRY",
+        "childCount": 10
+      }
+    }
+  ]
+}

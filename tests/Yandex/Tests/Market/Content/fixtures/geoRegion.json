@@ -1,0 +1,36 @@
+{
+  "context": {
+    "region": {
+      "id": 225,
+      "name": "Россия",
+      "type": "COUNTRY",
+      "childCount": 10,
+      "country": {
+        "id": 225,
+        "name": "Россия",
+        "type": "COUNTRY",
+        "childCount": 10
+      }
+    },
+    "currency": {
+      "id": "RUR",
+      "name": "руб."
+    },
+    "id": "1534150177035/c9ff11bfac4edcdf1290cfb037fc1927",
+    "time": "2018-08-13T11:49:37.038+03:00",
+    "marketUrl": "https://market.yandex.ru?pp=1001"
+  },
+  "region": {
+    "id": 225,
+    "name": "Россия",
+    "type": "COUNTRY",
+    "childCount": 10,
+    "country": {
+      "id": 225,
+      "name": "Россия",
+      "type": "COUNTRY",
+      "childCount": 10
+    }
+  },
+  "status": "OK"
+}

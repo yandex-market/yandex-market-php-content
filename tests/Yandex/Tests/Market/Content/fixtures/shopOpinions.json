@@ -1,0 +1,395 @@
+{
+  "status": "OK",
+  "context": {
+    "region": {
+      "id": 213,
+      "name": "Москва",
+      "type": "CITY",
+      "childCount": 14,
+      "country": {
+        "id": 225,
+        "name": "Россия",
+        "type": "COUNTRY",
+        "childCount": 10
+      }
+    },
+    "currency": {
+      "id": "RUR",
+      "name": "руб."
+    },
+    "page": {
+      "number": 1,
+      "count": 10,
+      "total": 100
+    },
+    "id": "1534239462197/2fae67bc34ea820bbade38d75da15be6",
+    "time": "2018-08-14T12:37:42.283+03:00",
+    "marketUrl": "https://market.yandex.ru?pp=1001"
+  },
+  "opinions": [
+    {
+      "id": 37052813,
+      "date": "2013-04-18T23:15:24+04:00",
+      "grade": 5,
+      "state": "UNMODERATED",
+      "agreeCount": 3,
+      "disagreeCount": 5,
+      "text": "Очень хороший магазин. Я постоянный клиент этого магазина, сегодня делал покупки на Нагатинской, как всегда персонал вежливый и доброжелательный. Особая благодарность девушке кассиру, которая спросила, есть ли у меня карта постоянного клиента. Совсем заматался и забыл про карту клиента, а она напомнила. Пустячок, а приятно, хоть заказ был небольшой, всего на 1800 р. сэкономил 300 р. Жаль не глянул её имя.",
+      "author": {
+        "name": "Зверев Андрей",
+        "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/0/0-0/islands-middle",
+        "grades": 3,
+        "visibility": "NAME"
+      },
+      "region": {
+        "id": 213,
+        "name": "Москва",
+        "type": "CITY",
+        "childCount": 14,
+        "country": {
+          "id": 225,
+          "name": "Россия",
+          "type": "COUNTRY",
+          "childCount": 10
+        }
+      },
+      "recommend": false,
+      "shopOrderId": "РнЛ-00000169646",
+      "delivery": "INSTORE",
+      "shop": {
+        "id": 12138,
+        "name": "OLDI.RU"
+      },
+      "facts": []
+    },
+    {
+      "id": 37080660,
+      "date": "2013-04-19T21:37:57+04:00",
+      "grade": 1,
+      "state": "UNMODERATED",
+      "agreeCount": 9,
+      "disagreeCount": 4,
+      "text": "Купила Wi-Fi роутер, не подошел по техническим параметрам. Обещали обменять. Тут то и начались проблемы. Начну с графика работы с 10 до 17:30, и как работающий человек может попасть туда, когда сам в это время работаешь!? Отношение к клиентам не отличается вежливостью. Но это мелочи, товар у меня не приняли, т.к. очень зоркий глаз сотрудника гарантийного отдела обнаружил на корпусе царапины и потертости. По факту товар был вынут из упаковки, испытан и убран обратно в коробку. Попытки урегулировать конфликт не привели ни к чему хорошему, через скандал приняли заявление, обещали рассмотреть в течении 10 дней.Не думаю, что такая политика приведет к увеличению количеству клиентов. Это было первое и последнее мое обращение в ваш магазин.",
+      "pros": "хороший магазин, большой выбор товара.",
+      "cons": "обслуживание гарантийного отдела на Нагатинской.",
+      "author": {
+        "name": "марина марина",
+        "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/0/0-0/islands-middle",
+        "grades": 1,
+        "visibility": "NAME"
+      },
+      "region": {
+        "id": 213,
+        "name": "Москва",
+        "type": "CITY",
+        "childCount": 14,
+        "country": {
+          "id": 225,
+          "name": "Россия",
+          "type": "COUNTRY",
+          "childCount": 10
+        }
+      },
+      "recommend": false,
+      "delivery": "INSTORE",
+      "problem": "RESOLVED",
+      "shop": {
+        "id": 12138,
+        "name": "OLDI.RU"
+      },
+      "facts": []
+    },
+    {
+      "id": 37181723,
+      "date": "2013-04-23T12:16:01+04:00",
+      "grade": 1,
+      "state": "UNMODERATED",
+      "agreeCount": 9,
+      "disagreeCount": 7,
+      "text": "На Трифоновской, 45 купила планшет, на следующий день камера стала снимать зеленым цветом, 14.04.13г. в магазине оставила претензию что бы сделали обмен на другую модель с доплатой, прошло 10 дней тишина. Будем судиться, а что делать?",
+      "author": {
+        "name": "banka.f",
+        "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/0/0-0/islands-middle",
+        "grades": 1,
+        "visibility": "NAME"
+      },
+      "region": {
+        "id": 213,
+        "name": "Москва",
+        "type": "CITY",
+        "childCount": 14,
+        "country": {
+          "id": 225,
+          "name": "Россия",
+          "type": "COUNTRY",
+          "childCount": 10
+        }
+      },
+      "recommend": false,
+      "delivery": "INSTORE",
+      "problem": "UNRESOLVED",
+      "shop": {
+        "id": 12138,
+        "name": "OLDI.RU"
+      },
+      "facts": []
+    },
+    {
+      "id": 37178912,
+      "date": "2013-04-23T10:54:55+04:00",
+      "grade": 5,
+      "state": "UNMODERATED",
+      "agreeCount": 5,
+      "disagreeCount": 4,
+      "text": "Мне очень понравилось, что мне сэкономили много времени. Приехала, сообщила номер заказа, оплатила товар, забрала товар. Никакой очереди, всё отлажено.",
+      "pros": "Быстрота и удобство",
+      "cons": "Пока не обнаружила",
+      "author": {
+        "name": "Метал Юлия",
+        "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/0/0-0/islands-middle",
+        "grades": 1,
+        "visibility": "NAME"
+      },
+      "region": {
+        "id": 213,
+        "name": "Москва",
+        "type": "CITY",
+        "childCount": 14,
+        "country": {
+          "id": 225,
+          "name": "Россия",
+          "type": "COUNTRY",
+          "childCount": 10
+        }
+      },
+      "recommend": false,
+      "delivery": "PICKUP",
+      "shop": {
+        "id": 12138,
+        "name": "OLDI.RU"
+      },
+      "facts": []
+    },
+    {
+      "id": 37221167,
+      "date": "2013-04-24T14:29:36+04:00",
+      "grade": 3,
+      "state": "UNMODERATED",
+      "agreeCount": 6,
+      "disagreeCount": 5,
+      "text": "Не понравились менеджеры , которые улыбаясь мне в ответ. У них понятно дело время уже не рабочее. Света нет. Одна отмашка. И им наверное приятно просиживать свои штаны. Что делать ничего не нужно. А вот мне было неприятно приехать и уткнуться в закрытие двери.\r\n8 910 427 75 76 Элина М.",
+      "pros": "Заказала блендер. Менеджер позвонил уточнил, что есть в наличии. Вежливо спросил каким образом хочу забрать. После этого уточнил, где мне будет удобно. Менеджеры этого магазина по  телефону мне показались показались очень вежливыми. Уточнил, что мой товар будет забронирован на 24 часа на метро Дубровка. Адрес я сама сказала, что мне будет удобно.",
+      "cons": "Приезжаю сегодня в 13-30. А у них электричества нет на ул. Велозаводской, д.3/2. Спросила возможно ли получить как-нибудь по другому раз приехали. Они мне сказали магазин не работает, погуляйте приблизительно 2 часа. Проблема в том, что нужно было заранее обзвонить всех клиентов, которые собирались приехать за своим товар по этому адресу в данное время. А не ждать с неба погоды.",
+      "author": {
+        "name": "Машкова Элина",
+        "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/0/0-0/islands-middle",
+        "grades": 1,
+        "visibility": "NAME"
+      },
+      "region": {
+        "id": 213,
+        "name": "Москва",
+        "type": "CITY",
+        "childCount": 14,
+        "country": {
+          "id": 225,
+          "name": "Россия",
+          "type": "COUNTRY",
+          "childCount": 10
+        }
+      },
+      "recommend": false,
+      "shopOrderId": "10750",
+      "delivery": "PICKUP",
+      "problem": "UNRESOLVED",
+      "shop": {
+        "id": 12138,
+        "name": "OLDI.RU"
+      },
+      "facts": []
+    },
+    {
+      "id": 37382678,
+      "date": "2013-04-30T12:46:02+04:00",
+      "grade": 5,
+      "state": "UNMODERATED",
+      "agreeCount": 4,
+      "disagreeCount": 4,
+      "text": "Покупали и самовывозом и с доставкой. Приятное и точное исполнение. Цены на сайте и в реальности не отличаются.",
+      "pros": "Быстрое принятие заказов, не навязчивый сервис, Своевременная доставка.",
+      "cons": "По не обнаруженны",
+      "author": {
+        "name": "Polyakov Dmitry",
+        "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/15298/20613212-916861/islands-middle",
+        "grades": 9,
+        "visibility": "NAME"
+      },
+      "region": {
+        "id": 213,
+        "name": "Москва",
+        "type": "CITY",
+        "childCount": 14,
+        "country": {
+          "id": 225,
+          "name": "Россия",
+          "type": "COUNTRY",
+          "childCount": 10
+        }
+      },
+      "recommend": false,
+      "shopOrderId": "00000241654",
+      "delivery": "DELIVERY",
+      "shop": {
+        "id": 12138,
+        "name": "OLDI.RU"
+      },
+      "facts": []
+    },
+    {
+      "id": 37387502,
+      "date": "2013-04-30T15:19:21+04:00",
+      "grade": 5,
+      "state": "UNMODERATED",
+      "agreeCount": 5,
+      "disagreeCount": 4,
+      "text": "На протяжении четырех лет покупаю что-либо в этом магазине (начиная от всяких штучек юсб, заканчиваю серьезными комплектующими для пк и серверов). Всегда есть в наличии нужный мне товар, всегда все процессы происходят быстро. Да, так же, радуют шоу-румы в магазинах - можно пощупать, потрогать, повертеть в руках.\r\nОЛДИ - действительно один из лучших магазинов!!!",
+      "pros": "Быстро, Качественно, Удобно, Практично, Полезно",
+      "cons": "их нет",
+      "author": {
+        "name": "Супруненко Антон",
+        "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/21493/14243214-631941/islands-middle",
+        "grades": 5,
+        "visibility": "NAME"
+      },
+      "region": {
+        "id": 213,
+        "name": "Москва",
+        "type": "CITY",
+        "childCount": 14,
+        "country": {
+          "id": 225,
+          "name": "Россия",
+          "type": "COUNTRY",
+          "childCount": 10
+        }
+      },
+      "recommend": false,
+      "delivery": "PICKUP",
+      "shop": {
+        "id": 12138,
+        "name": "OLDI.RU"
+      },
+      "facts": []
+    },
+    {
+      "id": 37412315,
+      "date": "2013-05-01T18:20:35+04:00",
+      "grade": 1,
+      "state": "UNMODERATED",
+      "agreeCount": 11,
+      "disagreeCount": 12,
+      "text": "Заказал 2 аккумулятора Аккумулятор 3Cott 12V4.5Ah и Аккумулятор 3Cott 12V9Ah - Номер вашего заказа: СчЛ-00000214594 от 12.04.2013\r\nЗаказал, сказали позвонят о доставке. Курьер позвонил \"за час\" это нормально? Я должен весь день в будни дома высиживать? Договорился с ним на следующий день вечернюю доставку. И всё, обо мне забыли. Доставки естественно не было, звонков тоже. Ребята, продолжайте в том же духе! Смягчил формулировку.",
+      "pros": "магазин действительно есть",
+      "cons": "заранее о доставке не договариваются",
+      "author": {
+        "name": "Твердохлебов Александр",
+        "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/0/0-0/islands-middle",
+        "grades": 25,
+        "visibility": "NAME"
+      },
+      "region": {
+        "id": 213,
+        "name": "Москва",
+        "type": "CITY",
+        "childCount": 14,
+        "country": {
+          "id": 225,
+          "name": "Россия",
+          "type": "COUNTRY",
+          "childCount": 10
+        }
+      },
+      "recommend": false,
+      "shopOrderId": "СчЛ-00000214594",
+      "delivery": "DELIVERY",
+      "problem": "UNRESOLVED",
+      "shop": {
+        "id": 12138,
+        "name": "OLDI.RU"
+      },
+      "facts": []
+    },
+    {
+      "id": 37413379,
+      "date": "2013-05-01T19:20:18+04:00",
+      "grade": 5,
+      "state": "UNMODERATED",
+      "agreeCount": 5,
+      "disagreeCount": 4,
+      "text": "Оформила заказ через интернет,  через 2 часа уже все забрала- очень оперативно, спасибо !",
+      "author": {
+        "name": "Пилипенко Вероника",
+        "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/20706/19522096-678299/islands-middle",
+        "grades": 1,
+        "visibility": "NAME"
+      },
+      "region": {
+        "id": 213,
+        "name": "Москва",
+        "type": "CITY",
+        "childCount": 14,
+        "country": {
+          "id": 225,
+          "name": "Россия",
+          "type": "COUNTRY",
+          "childCount": 10
+        }
+      },
+      "recommend": false,
+      "shopOrderId": "5115",
+      "delivery": "PICKUP",
+      "shop": {
+        "id": 12138,
+        "name": "OLDI.RU"
+      },
+      "facts": []
+    },
+    {
+      "id": 37506370,
+      "date": "2013-05-06T15:15:22+04:00",
+      "grade": 5,
+      "state": "UNMODERATED",
+      "agreeCount": 6,
+      "disagreeCount": 4,
+      "text": "Магазин работает как никогда четко и быстро - одно удовольствие там отовариваться!",
+      "pros": "Широкий выбор комплектующих, надежность поставки и отличное обслуживание",
+      "cons": "хотелось бы больше брендов в разделе устройств ввода - steelseries, razer и тд",
+      "author": {
+        "name": "Козлов Антон",
+        "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/0/0-0/islands-middle",
+        "grades": 2,
+        "visibility": "NAME"
+      },
+      "region": {
+        "id": 213,
+        "name": "Москва",
+        "type": "CITY",
+        "childCount": 14,
+        "country": {
+          "id": 225,
+          "name": "Россия",
+          "type": "COUNTRY",
+          "childCount": 10
+        }
+      },
+      "recommend": false,
+      "shopOrderId": "СчД-00000118794",
+      "delivery": "PICKUP",
+      "shop": {
+        "id": 12138,
+        "name": "OLDI.RU"
+      },
+      "facts": []
+    }
+  ]
+}

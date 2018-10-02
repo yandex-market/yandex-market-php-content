@@ -1,0 +1,36 @@
+{
+  "status": "OK",
+  "context": {
+    "region": {
+      "id": 225,
+      "name": "Россия",
+      "type": "COUNTRY",
+      "childCount": 10,
+      "country": {
+        "id": 225,
+        "name": "Россия",
+        "type": "COUNTRY",
+        "childCount": 10
+      }
+    },
+    "currency": {
+      "id": "RUR",
+      "name": "руб."
+    },
+    "page": {
+      "number": 1,
+      "count": 10,
+      "total": 1
+    },
+    "id": "1534167982727/c0932f9164928c8bf83c147ffd44b881",
+    "time": "2018-08-13T16:46:22.783+03:00",
+    "marketUrl": "https://market.yandex.ru?pp=1001"
+  },
+  "reviews": [
+    {
+      "url": "http://4pda.ru/2018/02/16/349724/",
+      "title": "Обзор Xiaomi Mi Router 3G: русский как иностранный",
+      "favIcon": "http://favicon.yandex.ru/favicon/4pda.ru"
+    }
+  ]
+}

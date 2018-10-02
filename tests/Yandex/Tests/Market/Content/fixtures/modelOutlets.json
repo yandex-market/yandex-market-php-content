@@ -1,0 +1,100 @@
+{
+  "status": "OK",
+  "context": {
+    "region": {
+      "id": 225,
+      "name": "Россия",
+      "type": "COUNTRY",
+      "childCount": 10,
+      "country": {
+        "id": 225,
+        "name": "Россия",
+        "type": "COUNTRY",
+        "childCount": 10
+      }
+    },
+    "currency": {
+      "id": "RUR",
+      "name": "руб."
+    },
+    "page": {
+      "number": 1,
+      "count": 10,
+      "total": 1
+    },
+    "id": "1534168483671/cefc510793a7f07e77ed6fda9dfe5765",
+    "time": "2018-08-13T16:54:43.73+03:00",
+    "marketUrl": "https://market.yandex.ru?pp=1001"
+  },
+  "outlets": [
+    {
+      "id": "774540",
+      "name": "Связной",
+      "type": "mixed",
+      "address": {
+        "regionId": 225,
+        "locality": "Ногинск",
+        "thoroughfare": "50км-400м автомобильной дороги М-7 Волга тер",
+        "premiseNumber": "5",
+        "fullAddress": "Ногинск, 50км-400м автомобильной дороги М-7 Волга тер, д. 5",
+        "note": "ГМ Окей",
+        "geoPoint": {
+          "coordinates": {
+            "latitude": 56.410873,
+            "longitude": 41.147251
+          }
+        }
+      },
+      "phones": [
+        {
+          "number": "+7 (800) 7004343",
+          "sanitized": "78007004343"
+        }
+      ],
+      "schedule": [
+        {
+          "daysFrom": "7",
+          "daysTill": "7",
+          "from": "10:00",
+          "till": "22:00"
+        },
+        {
+          "daysFrom": "1",
+          "daysTill": "1",
+          "from": "10:00",
+          "till": "22:00"
+        },
+        {
+          "daysFrom": "2",
+          "daysTill": "2",
+          "from": "10:00",
+          "till": "22:00"
+        },
+        {
+          "daysFrom": "3",
+          "daysTill": "3",
+          "from": "10:00",
+          "till": "22:00"
+        },
+        {
+          "daysFrom": "4",
+          "daysTill": "4",
+          "from": "10:00",
+          "till": "22:00"
+        },
+        {
+          "daysFrom": "5",
+          "daysTill": "5",
+          "from": "10:00",
+          "till": "22:00"
+        },
+        {
+          "daysFrom": "6",
+          "daysTill": "6",
+          "from": "10:00",
+          "till": "22:00"
+        }
+      ]
+    }
+  ]
+}

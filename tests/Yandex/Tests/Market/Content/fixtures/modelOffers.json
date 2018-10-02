@@ -1,0 +1,285 @@
+{
+  "status": "OK",
+  "context": {
+    "region": {
+      "id": 225,
+      "name": "Россия",
+      "type": "COUNTRY",
+      "childCount": 10,
+      "country": {
+        "id": 225,
+        "name": "Россия",
+        "type": "COUNTRY",
+        "childCount": 10
+      }
+    },
+    "currency": {
+      "id": "RUR",
+      "name": "руб."
+    },
+    "page": {
+      "number": 1,
+      "count": 10,
+      "total": 2
+    },
+    "processingOptions": {
+      "adult": false
+    },
+    "id": "1534170236458/daeaa50a6f6cd1ccaad7944494ef553c",
+    "time": "2018-08-13T17:23:56.546+03:00",
+    "marketUrl": "https://market.yandex.ru?pp=930"
+  },
+  "offers": [
+    {
+      "id": "yDpJekrrgZFlGbQZhZ6gfaaRulOUJaYnIOk4ybAq0kfTRZ42nWVAqA",
+      "wareMd5": "8r_zGVZf-Qm8lydv7ie_zw",
+      "name": "МФУ Canon Pixma TS5040 (черный)",
+      "description": "МФУ Canon Pixma TS5040 – компактное устройство, которое не будет мешать работе даже при установке на самом маленьком столе. Оно подходит как для домашнего, так и для офисного применения благодаря высокой производительности и большому ресурсу печати. Отличное качество изображения. Высокое разрешение печатающей головки в сочетании с автоматическим регулированием размера капли гарантирует точную передачу всех деталей картинки, необходимую для создания фотокарточек.",
+      "price": {
+        "value": "4960"
+      },
+      "cpa": false,
+      "url": "https://market.yandex.ru/offer/8r_zGVZf-Qm8lydv7ie_zw?hid=138608&model_id=14229104&pp=930&cpc=zeu-kp26xG3lwbiszTwJRR5cGwWnibOeKRaFOW-1jSmiPsXNbPDfFfmAePQ9x2QG1CrHB7CFpbKzwrMY0x5vFukYuMYdr93iCJFkqeWPnS8%2C&lr=225",
+      "outletUrl": "https://market-click2.yandex.ru/redir/338FT8NBgRtZwUfhCY-hTUWJGKKlUQ80X0cnpOVU6mtzWVwOfdNGQAu_LSUkYnHnOPVwwopR63yWAqBshg_OqZAZJ7KVUZmRHfozb0U2aciol9As52tTZWAT9-YTckUGztk-l2K5nmqO9jBwjDP3YeqJZFo0Gw_HQ3yEyXEyLzRz6YI6oKE_7-1yQj75NRDrbTUH8sQoHc4QkneNaTNNwgIJkd7dk5sQAs_copD9qpJ-CnZQqEXXJKIh6bibCcA0fRaSrFHC3jY6aJq4CcaAc84tq8JIdji8bUhZCYvK36sz9UJBlNrX6lNRr1QYNXndpydIVGX1_eSkM1c7q3KWyLG1ZqTPft1PW-nE5e8qkK7OL0WeqEZU5V1tTApWAtTPG4p2XpLw-j-fNZ-Dzf_sFn3gvu6ga2zxtrqRJM3RDL5AOjY1HrRMGu31aOmCjQvAwcQxfIjTJv2I_1o2k-Chgeo8IS112honCAEBL6aQL9ajaxMe1NRQy66NjjhXh7C2E3fQknDvPK_fvYOTw1iL6RjRgbk3LgIeQU63Dtl0JvppCBZtoQA63AlthudixA5vCCV9gk12YnkybkxvxiILGxiLsvFZ9SFzcHbFYwx_KoGANYYbr_Qm53E2CBL-J840BiClPV-yxrS6rAt6mxSA3fgrARQ2GN4oSrAbAIRw1OZkdfrUwI_IlELi1-w3AR5VwuocPQ0uBtiJRRQFMPXwPo9vZQ1FC_QDrZzOx-0060Y3FSM0KkK92WyDCCK72diQ6NRttrJ-lYWEq4eUSOfwSsB1TlSq-67OEY-sdv88ZTs4lUiN-DqmBSEXwZLvkRhhIy4F4ORObBhSJhaXa5iUxWupxvy2juFc?data=41WTYndNxdlaG-5xTfn6okY8p8Pwg5EL5PtKPUoATUEvlEoXLlDZ2aQduZRUzfz7Dtoz8R1mz8dZNVzmz-Lon1Wh5rAtV4e1IHYTOBNOojwGLqUSFTquoTV8iPQO2JSa4LLCpKtXTSwENVeox_cXY_8L0QOZAgZxDUZb0AZDST6A2BRbvb8dW_glX45yf_41FLXsVI50Pl8,&b64e=1&sign=7fc8058c6ccc0d9bf275db49a4417579&keyno=1",
+      "model": {
+        "id": 14229104
+      },
+      "warranty": true,
+      "recommended": true,
+      "link": "https://market.yandex.ru/offer/8r_zGVZf-Qm8lydv7ie_zw?hid=138608&model_id=14229104&pp=930&cpc=zeu-kp26xG3lwbiszTwJRR5cGwWnibOeKRaFOW-1jSmiPsXNbPDfFfmAePQ9x2QG1CrHB7CFpbKzwrMY0x5vFukYuMYdr93iCJFkqeWPnS8%2C&lr=225",
+      "paymentOptions": {
+        "canPayByCard": false
+      }
+    },
+    {
+      "id": "yDpJekrrgZHXjurboWl2TVLc7pDKTIAPP2NmQ0J7ksvXhjN4WO1cyw",
+      "wareMd5": "y48FWBVWS6E8aZsl1R3CLw",
+      "name": "МФУ Canon Pixma TS5040 (черный)",
+      "description": "МФУ Canon Pixma TS5040 – компактное устройство, которое не будет мешать работе даже при установке на самом маленьком столе. Оно подходит как для домашнего, так и для офисного применения благодаря высокой производительности и большому ресурсу печати. Отличное качество изображения. Высокое разрешение печатающей головки в сочетании с автоматическим регулированием размера капли гарантирует точную передачу всех деталей картинки, необходимую для создания фотокарточек.",
+      "price": {
+        "value": "4990"
+      },
+      "cpa": false,
+      "url": "https://market.yandex.ru/offer/y48FWBVWS6E8aZsl1R3CLw?hid=138608&model_id=14229104&pp=930&cpc=zeu-kp26xG3mfI9pm8pzIB9VMKpAFeGjav3umRRwz-Z2HFvP0DINLTj3WEuGQWWkii9Ur4f4uS0V9ojH6xDris7nlZ0UF_X6Cn-D8aFBu_E%2C&lr=225",
+      "outletUrl": "https://market-click2.yandex.ru/redir/338FT8NBgRtZwUfhCY-hTUWJGKKlUQ80X0cnpOVU6mtzWVwOfdNGQAu_LSUkYnHnOPVwwopR63yWAqBshg_OqZAZJ7KVUZmRHfozb0U2aciol9As52tTZWAT9-YTckUGztk-l2K5nmrJUiJhYBOUK8qxMqgHnkjFyAnD5ESfXvAjx15X-sC-kekEkeJT8_teELNHkaf8OsxqIzRl_y4t2Ig1_MCy76-NvkbQgYjOQdhwZAQyul_ErNt2DGuo1AdM4NCu85rG-z--VKowwr0BhE_oiZ67OvDakqfr9ArQVxV6Xsms9XowbQ2TWwIZz9P5kz61-L-caz91_zW8UywlIkDMwHROU3NhGDTdVG-Ts5PYlx0L-2HlD2G-pL7-ymJWhsX0IaFf8D2DYoMGIIvoeUMoWyBpWLCHzCVSY8EpcXR6Jfteh7GZoB0GpkieSIUSNpO3UWdwPOHn4ZXgu7QV1cKdw4ifOnIJTrhr6RJ4VVRPLKJbU0qAZAgHBbPrKqPtSM2ROUbsZXOEk3Y32vxj48l9OUk_nFAuCyRmqim2dE628WT2dir8MjEIOz6abdqkgwm9cSCGivHKsxMEqhZcl-sl97qXC0ui-Cxw8X1zsc27PhKEW2k-vIsV9uRakPGX8u94HbaREwcbnAa2M5g8WTYv3t0Xh55_YZ7N3Jtyq-RnsJ4gn-wwVjlc2Uz5bqFoK5008IPLQJd4BlOYfEEuhoq-bJ10YH6tN6ImOpj1zeZSIPFNDOOIoM3F4JxgAD-jFvHzKo326jEuqNr3r4xS9d6IEw7bedoEBzi75R8nbPtU74uXmExm4EBg6n5TREMZgxAzMY-TPfOfAtheGbhIyuuyRpZslcz8?data=41WTYndNxdlaG-5xTfn6okY8p8Pwg5EL5PtKPUoATUEvlEoXLlDZ2atAQFAqiBhubiqSYiYi3Tt7foah2spRzPN6WBJUrVK7-kdOEkUFbTNqoLcMsMB9_P8quRGGb2_ynhNDP25DS92cBcp0swVxYVL7JP1r-KdeoT11mCibtOXm7u5apHNg1bXfqxb1di4-Nt-LLetupPw,&b64e=1&sign=af23f07cbd5661d73de94318fb3abc9e&keyno=1",
+      "model": {
+        "id": 14229104
+      },
+      "onStock": true,
+      "warranty": true,
+      "recommended": true,
+      "link": "https://market.yandex.ru/offer/y48FWBVWS6E8aZsl1R3CLw?hid=138608&model_id=14229104&pp=930&cpc=zeu-kp26xG3mfI9pm8pzIB9VMKpAFeGjav3umRRwz-Z2HFvP0DINLTj3WEuGQWWkii9Ur4f4uS0V9ojH6xDris7nlZ0UF_X6Cn-D8aFBu_E%2C&lr=225",
+      "paymentOptions": {
+        "canPayByCard": false
+      }
+    },
+    {
+      "id": "yDpJekrrgZEndwX_p_5j5BlrK398aRcX7yJafLTf9FOhG93VaZaAIg",
+      "wareMd5": "dZuBKWrr7ZCtzvz-9RW-mg",
+      "name": "МФУ Canon - PIXMA TS5040, A4, PIXMA, сканер: Планшетный, Цветная Струйная печать, Wi-Fi, USB, 48bit, 4800 x 1200dpi, card-reader, цвет Чёрный, 1367C007",
+      "description": "Струйный цветной МФУ Canon PIXMA TS5040 1367C007 (принтер-сканер-копир) формата A4 поддерживает скорость монохромной печати 12 стр/мин и цветной печати 9 стр/мин, беспроводное соединение. МФУ имеет планшетный сканер, поддерживающий оптическое разрешение 1200 x 2400.",
+      "price": {
+        "value": "5178"
+      },
+      "cpa": false,
+      "url": "https://market.yandex.ru/offer/dZuBKWrr7ZCtzvz-9RW-mg?hid=138608&model_id=14229104&pp=930&cpc=oo_z2tB2zl9EgiCBi7hvesA36sq6pD3MZ2Wbfe66-YrmEaJOTI95pJ8VuzHzR0BNbqcBEvLp_eca0t_rXKavlnL7e8DCl_5cgqvCPsfQee8%2C&lr=225",
+      "model": {
+        "id": 14229104
+      },
+      "phone": {
+        "number": "+7 495 545-48-70",
+        "sanitized": "+74955454870"
+      },
+      "warranty": true,
+      "recommended": false,
+      "link": "https://market.yandex.ru/offer/dZuBKWrr7ZCtzvz-9RW-mg?hid=138608&model_id=14229104&pp=930&cpc=oo_z2tB2zl9EgiCBi7hvesA36sq6pD3MZ2Wbfe66-YrmEaJOTI95pJ8VuzHzR0BNbqcBEvLp_eca0t_rXKavlnL7e8DCl_5cgqvCPsfQee8%2C&lr=225",
+      "paymentOptions": {
+        "canPayByCard": false
+      }
+    },
+    {
+      "id": "yDpJekrrgZG_ijYdo_hpjl36h6iNxW6jIJPsWiqnsbJYdypXf9gOSA",
+      "wareMd5": "KWl4hGXarDEvaB8rigL3YA",
+      "name": "Многофункциональное устройство Canon PIXMA TS5040 Black (1367C007)",
+      "description": "Многофункциональное устройство Canon PIXMA TS5040 Black (1367C007",
+      "price": {
+        "value": "6024"
+      },
+      "cpa": false,
+      "url": "https://market.yandex.ru/offer/KWl4hGXarDEvaB8rigL3YA?hid=138608&model_id=14229104&pp=930&cpc=xes5kEKrd7v9IKBlAYTlQFP3tOlnhZYQd6wN4Y1Hhd1B6ZMKqqyw970bi3_5JHNxhI2CxxqyExKPelFXcII8g9T3VDclwNuTVITYUG8hBjc%2C&lr=225",
+      "model": {
+        "id": 14229104
+      },
+      "onStock": true,
+      "phone": {
+        "number": "8 800 500-71-59",
+        "sanitized": "88005007159"
+      },
+      "warranty": true,
+      "recommended": false,
+      "link": "https://market.yandex.ru/offer/KWl4hGXarDEvaB8rigL3YA?hid=138608&model_id=14229104&pp=930&cpc=xes5kEKrd7v9IKBlAYTlQFP3tOlnhZYQd6wN4Y1Hhd1B6ZMKqqyw970bi3_5JHNxhI2CxxqyExKPelFXcII8g9T3VDclwNuTVITYUG8hBjc%2C&lr=225",
+      "paymentOptions": {
+        "canPayByCard": false
+      }
+    },
+    {
+      "id": "yDpJekrrgZEB6qgKRCDxdB100lzB1HF9phk29dF6NTdAyLxnDFOTiA",
+      "wareMd5": "5NdWVe42wopTs2NucNUDkQ",
+      "name": "МФУ Canon PIXMA TS5040 Bk",
+      "description": "МФУ Canon PIXMA TS5040 Bk (принтер / сканер / копир). Максимальное разрешение для ч/б печати 4800x1200 dpi. Максимальное разрешение для цветной печати 4800x1200 dpi. Скорость печати 12.60 изобр./мин (ч/б А4), 9 изобр./мин (цветн. А4). Время печати 10x15 см (цветн.) 39 с. Разрешение сканера 1200x2400 dpi. Скорость сканирования (цветн.) 6,0 изобр./мин. Скорость сканирования (ч/б) 6,0 изобр./мин. Максимальное разрешение копира (ч/б) 1200x1200 dpi. Максимальное разрешение копира (цветн.) 1200x1200 dpi.",
+      "price": {
+        "value": "4850"
+      },
+      "cpa": false,
+      "url": "https://market.yandex.ru/offer/5NdWVe42wopTs2NucNUDkQ?hid=138608&model_id=14229104&pp=930&cpc=rztDcQrByb0tHVNV5KyVzgz9nK5f_ToygK50vEGBVWL1CoLcqtqiwqiExBYXmVlZTS6W6bsb2_Xu3f0PMZTYwzYpYEGg9ZOgzv8kAvGZmc0%2C&lr=225",
+      "model": {
+        "id": 14229104
+      },
+      "phone": {
+        "number": "+7 (495) 7726293",
+        "sanitized": "+74957726293"
+      },
+      "warranty": false,
+      "recommended": false,
+      "link": "https://market.yandex.ru/offer/5NdWVe42wopTs2NucNUDkQ?hid=138608&model_id=14229104&pp=930&cpc=rztDcQrByb0tHVNV5KyVzgz9nK5f_ToygK50vEGBVWL1CoLcqtqiwqiExBYXmVlZTS6W6bsb2_Xu3f0PMZTYwzYpYEGg9ZOgzv8kAvGZmc0%2C&lr=225",
+      "paymentOptions": {
+        "canPayByCard": false
+      }
+    },
+    {
+      "id": "yDpJekrrgZEdSdi3dY39stROVj1iDch0Qi1j8tc4Vz7_7HbxUQETew",
+      "wareMd5": "xx2UAHxe9zf290rlPAZQXg",
+      "name": "МФУ Canon Pixma TS5040",
+      "description": "МФУ, Струйный, A4, цвет.4800×1200, скан.1200×2400, USB 2.0, Wi-Fi, цветчерный",
+      "price": {
+        "value": "4954"
+      },
+      "cpa": false,
+      "url": "https://market.yandex.ru/offer/xx2UAHxe9zf290rlPAZQXg?hid=138608&model_id=14229104&pp=930&cpc=X8MQ_x83iwI_T95OVYL6sCiUmuIXEHVaahbAruzMNKsMh0jyCeL8glezN0C2F6QBAslGOp_MHHUMK-CbAKj7lcDnCbNb2vv6yKVBvtoiBr8%2C&lr=225",
+      "model": {
+        "id": 14229104
+      },
+      "phone": {
+        "number": "8 800 200-08-60",
+        "sanitized": "88002000860"
+      },
+      "warranty": false,
+      "recommended": false,
+      "link": "https://market.yandex.ru/offer/xx2UAHxe9zf290rlPAZQXg?hid=138608&model_id=14229104&pp=930&cpc=X8MQ_x83iwI_T95OVYL6sCiUmuIXEHVaahbAruzMNKsMh0jyCeL8glezN0C2F6QBAslGOp_MHHUMK-CbAKj7lcDnCbNb2vv6yKVBvtoiBr8%2C&lr=225",
+      "paymentOptions": {
+        "canPayByCard": false
+      }
+    },
+    {
+      "id": "yDpJekrrgZGhgLQXqdOSrZu-TVZRiD6o_HVK6SyMZFlIy9NBbSEKyA",
+      "wareMd5": "6CVuVvfySMlj9NXuZYBUPA",
+      "name": "Принтер Canon Pixma TS5040 (1367C007) A4 WiFi USB черный мфу струйный",
+      "description": "Размеры 372x126x315мм Технология печати струйный Формат печати A4 Тип печати цветной Тип сканирующего устройства планшетный WiFi в стандартной поставке ДА Диагональ дисплея 3 Скорость печати цвет A4 (до) 9 Вес 5.5 Размещение настольный Стандартное разрешение сканирования 1200x2400dpi Максимальная скорость печати 10x15 см (цвет) 39 Печать на глянцевой бумаге ДА Встроенный ЖК-дисплей цветной Сканер да Копировальный аппарат да Печать без полей ДА Тип датчика сканера CIS Максимальный формат сканирования A4",
+      "price": {
+        "value": "5047"
+      },
+      "cpa": false,
+      "url": "https://market.yandex.ru/offer/6CVuVvfySMlj9NXuZYBUPA?hid=138608&model_id=14229104&pp=930&cpc=X8MQ_x83iwJWkDnsSC1YU3f1guKRVK_QEjPx94grWB00RT2lKTk0d7NVSQu6uKj5FEE3l1hCoBccbczKHvn6a6hLJ0m_dlt4RZ-uD9KW-JQ%2C&lr=225",
+      "model": {
+        "id": 14229104
+      },
+      "phone": {
+        "number": "+7 499 755-91-11",
+        "sanitized": "+74997559111"
+      },
+      "warranty": true,
+      "recommended": false,
+      "link": "https://market.yandex.ru/offer/6CVuVvfySMlj9NXuZYBUPA?hid=138608&model_id=14229104&pp=930&cpc=X8MQ_x83iwJWkDnsSC1YU3f1guKRVK_QEjPx94grWB00RT2lKTk0d7NVSQu6uKj5FEE3l1hCoBccbczKHvn6a6hLJ0m_dlt4RZ-uD9KW-JQ%2C&lr=225",
+      "paymentOptions": {
+        "canPayByCard": false
+      }
+    },
+    {
+      "id": "yDpJekrrgZHZOLxFarh0ySaD5WS_0t7SguduYpHASSeu4bTTLRYPsA",
+      "wareMd5": "2nhEyR28hIGDFN-qsBeteQ",
+      "name": "МФУ Canon PIXMA TS5040 (1367C007), 4-цветная струйная печать, макс. формат печати A4 (210 x 297 мм), макс. размер отпечатка: 216 x 356 мм, печать фотографий, цветной ЖК-дисплей, Wi-Fi",
+      "description": "",
+      "price": {
+        "value": "5250"
+      },
+      "cpa": false,
+      "url": "https://market.yandex.ru/offer/2nhEyR28hIGDFN-qsBeteQ?hid=138608&model_id=14229104&pp=930&cpc=ebatOHTGY4koPIhW6OWqzO0G9o92qykzzSJpSZ8pG-J3hsFTh5yt7pMbvaWW4wD6fwPWxRfSMkO1_XsZVn3TIZrfI65MNnjr4rZNy8Ls_gc%2C&lr=225",
+      "model": {
+        "id": 14229104
+      },
+      "phone": {
+        "number": "+7(495)6608350",
+        "sanitized": "+74956608350"
+      },
+      "warranty": false,
+      "recommended": false,
+      "link": "https://market.yandex.ru/offer/2nhEyR28hIGDFN-qsBeteQ?hid=138608&model_id=14229104&pp=930&cpc=ebatOHTGY4koPIhW6OWqzO0G9o92qykzzSJpSZ8pG-J3hsFTh5yt7pMbvaWW4wD6fwPWxRfSMkO1_XsZVn3TIZrfI65MNnjr4rZNy8Ls_gc%2C&lr=225",
+      "paymentOptions": {
+        "canPayByCard": false
+      }
+    },
+    {
+      "id": "yDpJekrrgZGLTlPUeDnj0PrGSLcHWv5OGyxD-24RUcLdHKVyr_35ZQ",
+      "wareMd5": "GXAyvSZDj3oBaun2Y02gmQ",
+      "name": "Цветное струйное МФУ Canon PIXMA TS5040 Black (A4) (1367C007)",
+      "description": "",
+      "price": {
+        "value": "5359"
+      },
+      "cpa": false,
+      "url": "https://market.yandex.ru/offer/GXAyvSZDj3oBaun2Y02gmQ?hid=138608&model_id=14229104&pp=930&cpc=tff7st5AUVjOEUfskOyPw9rMkTiuLKhV8RCNho3fiXd9xd6VaH83cHaJPPkju-4onF5Meq2HngZFOJAsvKaf4ix965aNYt57ojPGUHhRqhk%2C&lr=225",
+      "model": {
+        "id": 14229104
+      },
+      "phone": {
+        "number": "+7 (812) 320-80-10",
+        "sanitized": "+78123208010"
+      },
+      "warranty": true,
+      "recommended": false,
+      "link": "https://market.yandex.ru/offer/GXAyvSZDj3oBaun2Y02gmQ?hid=138608&model_id=14229104&pp=930&cpc=tff7st5AUVjOEUfskOyPw9rMkTiuLKhV8RCNho3fiXd9xd6VaH83cHaJPPkju-4onF5Meq2HngZFOJAsvKaf4ix965aNYt57ojPGUHhRqhk%2C&lr=225",
+      "paymentOptions": {
+        "canPayByCard": false
+      }
+    },
+    {
+      "id": "yDpJekrrgZEfDTB0bkWhERqJnncB6kdy2fUXRluUMxTZXRVK2y0Q6g",
+      "wareMd5": "nNe65Dt4yraDuBzBKRI60Q",
+      "name": "Многофункциональное устройство Canon PIXMA TS5040 Black",
+      "description": "",
+      "price": {
+        "value": "4799"
+      },
+      "cpa": false,
+      "url": "https://market.yandex.ru/offer/nNe65Dt4yraDuBzBKRI60Q?hid=138608&model_id=14229104&pp=930&cpc=zeu-kp26xG0s--k9O1l6fz3jPy15-v3M32jvAwD6Hkpq5zIc4JCMvd-GfBwe3P6lyXdwvnjqjAwm-ImCdphlywgsX2KE1ftAYdDYKFn0Nto%2C&lr=225",
+      "model": {
+        "id": 14229104
+      },
+      "onStock": true,
+      "phone": {
+        "number": "+7 (812) 441-28-54",
+        "sanitized": "+78124412854"
+      },
+      "warranty": true,
+      "recommended": false,
+      "link": "https://market.yandex.ru/offer/nNe65Dt4yraDuBzBKRI60Q?hid=138608&model_id=14229104&pp=930&cpc=zeu-kp26xG0s--k9O1l6fz3jPy15-v3M32jvAwD6Hkpq5zIc4JCMvd-GfBwe3P6lyXdwvnjqjAwm-ImCdphlywgsX2KE1ftAYdDYKFn0Nto%2C&lr=225",
+      "paymentOptions": {
+        "canPayByCard": false
+      }
+    }
+  ],
+  "filters": [
+    {
+      "id": "-17",
+      "name": "Рекомендуется производителем",
+      "type": "BOOLEAN",
+      "values": []
+    },
+    {
+      "id": "-9",
+      "name": "Наличие скидки",
+      "type": "BOOLEAN",
+      "values": []
+    }
+  ]
+}

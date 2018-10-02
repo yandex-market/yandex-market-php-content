@@ -1,0 +1,51 @@
+{
+  "status": "OK",
+  "context": {
+    "region": {
+      "id": 213,
+      "name": "Москва",
+      "type": "CITY",
+      "childCount": 14,
+      "country": {
+        "id": 225,
+        "name": "Россия",
+        "type": "COUNTRY",
+        "childCount": 10
+      }
+    },
+    "currency": {
+      "id": "RUR",
+      "name": "руб."
+    },
+    "processingOptions": {
+      "filters": {
+        "geoId": 213,
+        "host": "www.oldi.ru"
+      }
+    },
+    "id": "1534238605656/6903ae3b774cad3d4c642b1c11dea599",
+    "time": "2018-08-14T12:23:25.66+03:00",
+    "marketUrl": "https://market.yandex.ru?pp=1001"
+  },
+  "shops": [
+    {
+      "region": {
+        "id": 213,
+        "name": "Москва",
+        "type": "CITY",
+        "childCount": 14,
+        "country": {
+          "id": 225,
+          "name": "Россия",
+          "type": "COUNTRY",
+          "childCount": 10
+        }
+      },
+      "id": 12138,
+      "name": "OLDI.RU",
+      "domain": "oldi.ru",
+      "registered": "2008-09-02",
+      "opinionUrl": "https://market.yandex.ru/shop/12138/reviews?pp=1001"
+    }
+  ]
+}

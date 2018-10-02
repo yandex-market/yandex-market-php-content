@@ -1,0 +1,644 @@
+{
+  "status": "OK",
+  "context": {
+    "region": {
+      "id": 225,
+      "name": "Россия",
+      "type": "COUNTRY",
+      "childCount": 10,
+      "country": {
+        "id": 225,
+        "name": "Россия",
+        "type": "COUNTRY",
+        "childCount": 10
+      }
+    },
+    "currency": {
+      "id": "RUR",
+      "name": "руб."
+    },
+    "page": {
+      "number": 1,
+      "count": 10,
+      "total": 2
+    },
+    "id": "1534163706487/cca5caf278edca4248bd35aea6a82f64",
+    "time": "2018-08-13T15:35:06.568+03:00",
+    "marketUrl": "https://market.yandex.ru?pp=1001"
+  },
+  "opinions": [
+    {
+      "id": 81268740,
+      "date": "2018-08-11T22:38:19+03:00",
+      "grade": 5,
+      "state": "UNMODERATED",
+      "agreeCount": 0,
+      "disagreeCount": 0,
+      "text": "С... <a href=\"https://market.yandex.ru/product/37981658/reviews?hid=294661&firstReviewId=81268740&track=partner&pp=1001\">Подробнее на Яндекс.Маркете</a>",
+      "pros": "1-Прикрепил и забыл. Держится надежно, где бы не ездил ни разу не слетел.\n2-Хороший яркий экран, мне замечательно все видно.\n3- Меню понятное, легко настраивается.",
+      "cons": "Отсутствуют",
+      "author": {
+        "name": "Терентьева Карина",
+        "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/0/0-0/islands-middle",
+        "grades": 1,
+        "visibility": "NAME"
+      },
+      "region": {
+        "id": 1,
+        "name": "Москва и Московская область",
+        "type": "SUBJECT_FEDERATION",
+        "childCount": 70,
+        "country": {
+          "id": 225,
+          "name": "Россия",
+          "type": "COUNTRY",
+          "childCount": 10
+        }
+      },
+      "recommend": true,
+      "usageTime": "FEW_MONTHS",
+      "verifiedBuyer": false,
+      "model": {
+        "id": 37981658
+      },
+      "facts": [
+        {
+          "id": 0,
+          "title": "Точность определения",
+          "value": 4
+        },
+        {
+          "id": 0,
+          "title": "Скорость работы",
+          "value": 5
+        },
+        {
+          "id": 0,
+          "title": "Размер экрана",
+          "value": 4
+        },
+        {
+          "id": 0,
+          "title": "Удобство использования",
+          "value": 5
+        },
+        {
+          "id": 0,
+          "title": "Качество карт",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "id": 81230997,
+      "date": "2018-08-10T11:27:31+03:00",
+      "grade": 5,
+      "state": "UNMODERATED",
+      "agreeCount": 0,
+      "disagreeCount": 0,
+      "pros": "Для меня самое главное в навигаторе скорость работы и чтобы хорошо прокладывал маршрут. В этом плане с дигма полный порядок. По ситигид понятное и простое, плюсом ко всему есть большой выбор дополнительных карт. Я сразу после покупки загрузил несколько дополнительных по области. ",
+      "cons": "Никаких,... <a href=\"https://market.yandex.ru/product/37981658/reviews?hid=294661&firstReviewId=81230997&track=partner&pp=1001\">Подробнее на Яндекс.Маркете</a>",
+      "author": {
+        "name": "Павлович Андрей",
+        "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/0/0-0/islands-middle",
+        "grades": 1,
+        "visibility": "NAME"
+      },
+      "region": {
+        "id": 67,
+        "name": "Томск",
+        "type": "CITY",
+        "childCount": 7,
+        "country": {
+          "id": 225,
+          "name": "Россия",
+          "type": "COUNTRY",
+          "childCount": 10
+        }
+      },
+      "recommend": true,
+      "usageTime": "FEW_MONTHS",
+      "verifiedBuyer": false,
+      "model": {
+        "id": 37981658
+      },
+      "facts": [
+        {
+          "id": 0,
+          "title": "Точность определения",
+          "value": 4
+        },
+        {
+          "id": 0,
+          "title": "Размер экрана",
+          "value": 5
+        },
+        {
+          "id": 0,
+          "title": "Скорость работы",
+          "value": 5
+        },
+        {
+          "id": 0,
+          "title": "Качество карт",
+          "value": 4
+        },
+        {
+          "id": 0,
+          "title": "Удобство использования",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "id": 80806394,
+      "date": "2018-07-25T09:45:52+03:00",
+      "grade": 5,
+      "state": "UNMODERATED",
+      "agreeCount": 0,
+      "disagreeCount": 0,
+      "text": "Всем добрый день! Хочу поделиться своим мнением насчёт навигатора AllDrive 505. Приобрел я его недавно. Все очень понравилось. Во первых, все честно и очень быстро дошло, как работает и что в настройках там... <a href=\"https://market.yandex.ru/product/37981658/reviews?hid=294661&firstReviewId=80806394&track=partner&pp=1001\">Подробнее на Яндекс.Маркете</a>",
+      "pros": "Экран, дизайн, карты.",
+      "cons": "Нет.",
+      "author": {
+        "name": "Костенюк Юра",
+        "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/0/0-0/islands-middle",
+        "grades": 2,
+        "visibility": "NAME"
+      },
+      "region": {
+        "id": 213,
+        "name": "Москва",
+        "type": "CITY",
+        "childCount": 14,
+        "country": {
+          "id": 225,
+          "name": "Россия",
+          "type": "COUNTRY",
+          "childCount": 10
+        }
+      },
+      "recommend": true,
+      "usageTime": "FEW_MONTHS",
+      "verifiedBuyer": false,
+      "model": {
+        "id": 37981658
+      },
+      "facts": [
+        {
+          "id": 0,
+          "title": "Размер экрана",
+          "value": 5
+        },
+        {
+          "id": 0,
+          "title": "Скорость работы",
+          "value": 5
+        },
+        {
+          "id": 0,
+          "title": "Удобство использования",
+          "value": 5
+        },
+        {
+          "id": 0,
+          "title": "Качество карт",
+          "value": 5
+        },
+        {
+          "id": 0,
+          "title": "Точность определения",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "id": 80696746,
+      "date": "2018-07-21T00:47:05+03:00",
+      "grade": 1,
+      "state": "UNMODERATED",
+      "agreeCount": 0,
+      "disagreeCount": 0,
+      "text": "Не ожидал такого от навигатора. Все тут хвалят его, прямо такой безупречный, вот я и купился на отзывы. В итоге карты не полные, даже моего дома на карте нету, и соседнего дома тоже нету. Интересно куда подевались две двенадцатиэтажки? Ж/Д станция Осеевская отсутствует, да много чего нету в картах. Поиск не удобный, ограниченный. Приехал за... <a href=\"https://market.yandex.ru/product/37981658/reviews?hid=294661&firstReviewId=80696746&track=partner&pp=1001\">Подробнее на Яндекс.Маркете</a>",
+      "pros": "Громкий голос, качество изображения.",
+      "cons": "Ужасные карты. Ужасная программа.",
+      "author": {
+        "name": "Нерсесьян Арсен",
+        "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/0/0-0/islands-middle",
+        "grades": 1,
+        "visibility": "NAME"
+      },
+      "region": {
+        "id": 115078,
+        "name": "Свердловский",
+        "type": "VILLAGE",
+        "childCount": 0,
+        "country": {
+          "id": 225,
+          "name": "Россия",
+          "type": "COUNTRY",
+          "childCount": 10
+        }
+      },
+      "recommend": false,
+      "usageTime": "FEW_WEEKS",
+      "verifiedBuyer": false,
+      "model": {
+        "id": 37981658
+      },
+      "facts": [
+        {
+          "id": 0,
+          "title": "Качество карт",
+          "value": 1
+        },
+        {
+          "id": 0,
+          "title": "Размер экрана",
+          "value": 5
+        },
+        {
+          "id": 0,
+          "title": "Удобство использования",
+          "value": 1
+        },
+        {
+          "id": 0,
+          "title": "Точность определения",
+          "value": 5
+        },
+        {
+          "id": 0,
+          "title": "Скорость работы",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "id": 80484903,
+      "date": "2018-07-13T15:35:23+03:00",
+      "grade": 5,
+      "state": "UNMODERATED",
+      "agreeCount": 0,
+      "disagreeCount": 0,
+      "text": "Номер заказа 50226827 <a href=\"https://market.yandex.ru/product/37981658/reviews?hid=294661&track=partner&pp=1001\">Все отзывы на Яндекс.Маркете</a>",
+      "pros": "Простой в обращении, очень удобный.Шустро работает.",
+      "cons": "не нашел",
+      "author": {
+        "name": "Брюханов Анатолий",
+        "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/44850/131946159-30547029/islands-middle",
+        "grades": 2,
+        "visibility": "NAME"
+      },
+      "region": {
+        "id": 50,
+        "name": "Пермь",
+        "type": "CITY",
+        "childCount": 7,
+        "country": {
+          "id": 225,
+          "name": "Россия",
+          "type": "COUNTRY",
+          "childCount": 10
+        }
+      },
+      "recommend": true,
+      "usageTime": "FEW_WEEKS",
+      "verifiedBuyer": false,
+      "model": {
+        "id": 37981658
+      },
+      "facts": [
+        {
+          "id": 0,
+          "title": "Размер экрана",
+          "value": 5
+        },
+        {
+          "id": 0,
+          "title": "Скорость работы",
+          "value": 5
+        },
+        {
+          "id": 0,
+          "title": "Удобство использования",
+          "value": 5
+        },
+        {
+          "id": 0,
+          "title": "Качество карт",
+          "value": 5
+        },
+        {
+          "id": 0,
+          "title": "Точность определения",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "id": 80464573,
+      "date": "2018-07-12T21:44:00+03:00",
+      "grade": 4,
+      "state": "UNMODERATED",
+      "agreeCount": 0,
+      "disagreeCount": 0,
+      "text": "Мне навигатор скорее нужен для путешествий семьей, стараемся каждые выходные куда-нибудь выбираться. В своем то городе отлично ориентируюсь, а если... <a href=\"https://market.yandex.ru/product/37981658/reviews?hid=294661&firstReviewId=80464573&track=partner&pp=1001\">Подробнее на Яндекс.Маркете</a>",
+      "pros": "Добротный корпус, надежно крепится, долго держит заряд аккумулятор. ",
+      "cons": "Не обнаружил.",
+      "author": {
+        "name": "Platonov Denis",
+        "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/0/0-0/islands-middle",
+        "grades": 1,
+        "visibility": "NAME"
+      },
+      "region": {
+        "id": 240,
+        "name": "Тольятти",
+        "type": "CITY",
+        "childCount": 1,
+        "country": {
+          "id": 225,
+          "name": "Россия",
+          "type": "COUNTRY",
+          "childCount": 10
+        }
+      },
+      "recommend": true,
+      "usageTime": "FEW_MONTHS",
+      "verifiedBuyer": false,
+      "model": {
+        "id": 37981658
+      },
+      "facts": [
+        {
+          "id": 0,
+          "title": "Точность определения",
+          "value": 4
+        },
+        {
+          "id": 0,
+          "title": "Скорость работы",
+          "value": 5
+        },
+        {
+          "id": 0,
+          "title": "Качество карт",
+          "value": 4
+        },
+        {
+          "id": 0,
+          "title": "Размер экрана",
+          "value": 4
+        },
+        {
+          "id": 0,
+          "title": "Удобство использования",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "id": 80432879,
+      "date": "2018-07-11T21:35:05+03:00",
+      "grade": 4,
+      "state": "UNMODERATED",
+      "agreeCount": 0,
+      "disagreeCount": 0,
+      "pros": "Простой, понятный и удобный). Я со всем сама разобралась причем быстро. Маршруты прокладывает быстро, стало ездить по городу значительно проще. Даже в поездку ездила с друзьями на выходные и ни разу не запуталась, к месту добрались быстро. Дисплей отличный,... <a href=\"https://market.yandex.ru/product/37981658/reviews?hid=294661&firstReviewId=80432879&track=partner&pp=1001\">Подробнее на Яндекс.Маркете</a>",
+      "author": {
+        "name": "Савельева Надя",
+        "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/0/0-0/islands-middle",
+        "grades": 1,
+        "visibility": "NAME"
+      },
+      "region": {
+        "id": 8,
+        "name": "Курск",
+        "type": "CITY",
+        "childCount": 0,
+        "country": {
+          "id": 225,
+          "name": "Россия",
+          "type": "COUNTRY",
+          "childCount": 10
+        }
+      },
+      "recommend": true,
+      "usageTime": "FEW_MONTHS",
+      "verifiedBuyer": false,
+      "model": {
+        "id": 37981658
+      },
+      "facts": [
+        {
+          "id": 0,
+          "title": "Точность определения",
+          "value": 4
+        },
+        {
+          "id": 0,
+          "title": "Скорость работы",
+          "value": 5
+        },
+        {
+          "id": 0,
+          "title": "Качество карт",
+          "value": 4
+        },
+        {
+          "id": 0,
+          "title": "Размер экрана",
+          "value": 4
+        },
+        {
+          "id": 0,
+          "title": "Удобство использования",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "id": 80400339,
+      "date": "2018-07-10T21:43:45+03:00",
+      "grade": 4,
+      "state": "UNMODERATED",
+      "agreeCount": 2,
+      "disagreeCount": 0,
+      "pros": "Быстро находит спутники и загружает карту.  Хорошие маршруты прокладывает, езжу постоянно, никаких проблем не возникало. Экран хороший и яркий, отличные углы обзора, хотя и стараюсь не отвлекаться на экран и ехать... <a href=\"https://market.yandex.ru/product/37981658/reviews?hid=294661&firstReviewId=80400339&track=partner&pp=1001\">Подробнее на Яндекс.Маркете</a>",
+      "author": {
+        "name": "Рябушев Павел",
+        "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/0/0-0/islands-middle",
+        "grades": 1,
+        "visibility": "NAME"
+      },
+      "region": {
+        "id": 54,
+        "name": "Екатеринбург",
+        "type": "CITY",
+        "childCount": 7,
+        "country": {
+          "id": 225,
+          "name": "Россия",
+          "type": "COUNTRY",
+          "childCount": 10
+        }
+      },
+      "recommend": true,
+      "usageTime": "FEW_MONTHS",
+      "verifiedBuyer": false,
+      "model": {
+        "id": 37981658
+      },
+      "facts": [
+        {
+          "id": 0,
+          "title": "Размер экрана",
+          "value": 4
+        },
+        {
+          "id": 0,
+          "title": "Качество карт",
+          "value": 5
+        },
+        {
+          "id": 0,
+          "title": "Точность определения",
+          "value": 5
+        },
+        {
+          "id": 0,
+          "title": "Скорость работы",
+          "value": 4
+        },
+        {
+          "id": 0,
+          "title": "Удобство использования",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "id": 79734499,
+      "date": "2018-06-15T22:58:56+03:00",
+      "grade": 4,
+      "state": "UNMODERATED",
+      "agreeCount": 3,
+      "disagreeCount": 1,
+      "text": "У меня навигатор совсем недавно, мне необходим для работы. Пару раз в неделю езжу в командировки, а крутиться на местности по часу нет возможности. В целом очень доволен навигатором... <a href=\"https://market.yandex.ru/product/37981658/reviews?hid=294661&firstReviewId=79734499&track=partner&pp=1001\">Подробнее на Яндекс.Маркете</a>",
+      "pros": "Описаны ниже",
+      "cons": "Меня все устраивает.",
+      "author": {
+        "name": "Антон",
+        "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/0/0-0/islands-middle",
+        "grades": 1,
+        "visibility": "NAME"
+      },
+      "region": {
+        "id": 35,
+        "name": "Краснодар",
+        "type": "CITY",
+        "childCount": 4,
+        "country": {
+          "id": 225,
+          "name": "Россия",
+          "type": "COUNTRY",
+          "childCount": 10
+        }
+      },
+      "recommend": true,
+      "usageTime": "FEW_WEEKS",
+      "verifiedBuyer": false,
+      "model": {
+        "id": 37981658
+      },
+      "facts": [
+        {
+          "id": 0,
+          "title": "Точность определения",
+          "value": 4
+        },
+        {
+          "id": 0,
+          "title": "Размер экрана",
+          "value": 5
+        },
+        {
+          "id": 0,
+          "title": "Удобство использования",
+          "value": 5
+        },
+        {
+          "id": 0,
+          "title": "Качество карт",
+          "value": 5
+        },
+        {
+          "id": 0,
+          "title": "Скорость работы",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "id": 79701213,
+      "date": "2018-06-14T18:09:45+03:00",
+      "grade": 5,
+      "state": "UNMODERATED",
+      "agreeCount": 4,
+      "disagreeCount": 1,
+      "pros": "Пользуюсь уже почти полгода навигатором и могу кое-какие выводы сделать\n1) Работает быстро и стабильно, как навигатор полностью меня устраивает. Есть конечно доп функции типа плеера, просмотр фото, но я ими особо не пользуюсь\n2) Дисплей яркий, даже на солнце... <a href=\"https://market.yandex.ru/product/37981658/reviews?hid=294661&firstReviewId=79701213&track=partner&pp=1001\">Подробнее на Яндекс.Маркете</a>",
+      "author": {
+        "name": "Тихонов Владислав",
+        "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/0/0-0/islands-middle",
+        "grades": 1,
+        "visibility": "NAME"
+      },
+      "region": {
+        "id": 65,
+        "name": "Новосибирск",
+        "type": "CITY",
+        "childCount": 10,
+        "country": {
+          "id": 225,
+          "name": "Россия",
+          "type": "COUNTRY",
+          "childCount": 10
+        }
+      },
+      "recommend": true,
+      "usageTime": "FEW_MONTHS",
+      "verifiedBuyer": false,
+      "model": {
+        "id": 37981658
+      },
+      "facts": [
+        {
+          "id": 0,
+          "title": "Скорость работы",
+          "value": 5
+        },
+        {
+          "id": 0,
+          "title": "Размер экрана",
+          "value": 4
+        },
+        {
+          "id": 0,
+          "title": "Качество карт",
+          "value": 5
+        },
+        {
+          "id": 0,
+          "title": "Точность определения",
+          "value": 5
+        },
+        {
+          "id": 0,
+          "title": "Удобство использования",
+          "value": 4
+        }
+      ]
+    }
+  ]
+}

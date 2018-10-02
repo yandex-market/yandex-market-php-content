@@ -1,0 +1,79 @@
+{
+  "status": "OK",
+  "context": {
+    "region": {
+      "id": 225,
+      "name": "Россия",
+      "type": "COUNTRY",
+      "childCount": 10,
+      "country": {
+        "id": 225,
+        "name": "Россия",
+        "type": "COUNTRY",
+        "childCount": 10
+      }
+    },
+    "currency": {
+      "id": "RUR",
+      "name": "руб."
+    },
+    "page": {
+      "number": 1,
+      "count": 4,
+      "total": 1
+    },
+    "id": "1534149595847/d17d6c3c6280701a38f8c72651a3f9b0",
+    "time": "2018-08-13T11:39:55.853+03:00",
+    "marketUrl": "https://market.yandex.ru?pp=1001"
+  },
+  "regions": [
+    {
+      "id": 225,
+      "name": "Россия",
+      "type": "COUNTRY",
+      "childCount": 10,
+      "country": {
+        "id": 225,
+        "name": "Россия",
+        "type": "COUNTRY",
+        "childCount": 10
+      }
+    },
+    {
+      "id": 187,
+      "name": "Украина",
+      "type": "COUNTRY",
+      "childCount": 7,
+      "country": {
+        "id": 187,
+        "name": "Украина",
+        "type": "COUNTRY",
+        "childCount": 7
+      }
+    },
+    {
+      "id": 159,
+      "name": "Казахстан",
+      "type": "COUNTRY",
+      "childCount": 17,
+      "country": {
+        "id": 159,
+        "name": "Казахстан",
+        "type": "COUNTRY",
+        "childCount": 17
+      }
+    },
+    {
+      "id": 149,
+      "name": "Беларусь",
+      "type": "COUNTRY",
+      "childCount": 8,
+      "country": {
+        "id": 149,
+        "name": "Беларусь",
+        "type": "COUNTRY",
+        "childCount": 8
+      }
+    }
+  ]
+}

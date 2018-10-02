@@ -1,0 +1,43 @@
+{
+  "status": "OK",
+  "context": {
+    "region": {
+      "id": 213,
+      "name": "Москва",
+      "type": "CITY",
+      "childCount": 14,
+      "country": {
+        "id": 225,
+        "name": "Россия",
+        "type": "COUNTRY",
+        "childCount": 10
+      }
+    },
+    "currency": {
+      "id": "RUR",
+      "name": "руб."
+    },
+    "id": "1534237937166/f63fad0d8840802af64768ccf8ad39a1",
+    "time": "2018-08-14T12:12:17.169+03:00",
+    "marketUrl": "https://market.yandex.ru?pp=1001"
+  },
+  "shop": {
+    "region": {
+      "id": 195,
+      "name": "Ульяновск",
+      "type": "CITY",
+      "childCount": 0,
+      "country": {
+        "id": 225,
+        "name": "Россия",
+        "type": "COUNTRY",
+        "childCount": 10
+      }
+    },
+    "id": 90402,
+    "name": "PlanetaShop",
+    "domain": "ulyanovsk.planetashop.ru",
+    "registered": "2012-01-31",
+    "opinionUrl": "https://market.yandex.ru/shop/90402/reviews?pp=1001"
+  }
+}

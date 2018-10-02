@@ -1,0 +1,156 @@
+{
+  "status": "OK",
+  "context": {
+    "region": {
+      "id": 225,
+      "name": "Россия",
+      "type": "COUNTRY",
+      "childCount": 10,
+      "country": {
+        "id": 225,
+        "name": "Россия",
+        "type": "COUNTRY",
+        "childCount": 10
+      }
+    },
+    "currency": {
+      "id": "RUR",
+      "name": "руб."
+    },
+    "page": {
+      "number": 1,
+      "count": 10,
+      "total": 8,
+      "totalItems": 72
+    },
+    "processingOptions": {
+      "checkSpelled": true,
+      "text": "Мос",
+      "actualText": "Мос",
+      "highlightedText": "",
+      "adult": false
+    },
+    "id": "1534156379225/74a5a99806ad2af54862784e0f66be01",
+    "time": "2018-08-13T13:32:59.413+03:00",
+    "link": "https://market.yandex.ru/search?onstock=0&text=%D0%9C%D0%BE%D1%81&free-delivery=0&how&pp=929",
+    "marketUrl": "https://market.yandex.ru?pp=929"
+  },
+  "items": [
+    {
+      "__type": "offer",
+      "id": "yDpJekrrgZFcKk8UF8DLfaEhzHcMeNmDgzvei8M6veJ41FxkWAw7XQ",
+      "wareMd5": "kDYFILE93jWgBe2Mmxon4A",
+      "name": "Лицензия Cisco L-MOS-ODE-BASE=",
+      "description": "Лицензия On Demand Encapsulation for HTTP ABR - site license",
+      "price": {
+        "value": "10175198"
+      },
+      "cpa": false,
+      "url": "https://market.yandex.ru/offer/kDYFILE93jWgBe2Mmxon4A?hid=10983253&pp=929&cpc=Mz_9H7CFdeFQ_d_phSjMRXWAW1IHrMnLDkwlz-WTQ1WG-Vzj6DHacikDjrOSTdtvPOp_595md-q7Gwrqh7Tywa1zX-NjXQ9eP2iM9ikRY74%2C&lr=225",
+      "onStock": true,
+      "phone": {
+        "number": "+7 499 350-90-51",
+        "sanitized": "+74993509051"
+      },
+      "warranty": true,
+      "recommended": false,
+      "link": "https://market.yandex.ru/offer/kDYFILE93jWgBe2Mmxon4A?hid=10983253&pp=929&cpc=Mz_9H7CFdeFQ_d_phSjMRXWAW1IHrMnLDkwlz-WTQ1WG-Vzj6DHacikDjrOSTdtvPOp_595md-q7Gwrqh7Tywa1zX-NjXQ9eP2iM9ikRY74%2C&lr=225",
+      "paymentOptions": {
+        "canPayByCard": false
+      }
+    },
+    {
+      "__type": "model",
+      "id": 37981612,
+      "name": "Холодильник Hotpoint-Ariston HFP 8182 MOS",
+      "kind": "",
+      "type": "MODEL",
+      "isNew": false,
+      "description": "холодильник, 295л, 2-камерный, генератор льда, 60x64x185см, бежевый",
+      "link": "https://market.yandex.ru/product/37981612?hid=15450081&pp=929"
+    },
+    {
+      "__type": "model",
+      "id": 6504575,
+      "name": "Автомобильная акустика Macrom MOS.5K",
+      "kind": "",
+      "type": "MODEL",
+      "isNew": false,
+      "description": "среднечастотная АС, типоразмер: 13 см (5 дюйм.), мощность: 85 Вт, количество полос: 1, чувствительность: 87 дБ",
+      "link": "https://market.yandex.ru/product/6504575?hid=308016&pp=929"
+    },
+    {
+      "__type": "model",
+      "id": 1562426,
+      "name": "Флешка Bazint MOS 4Gb",
+      "kind": "",
+      "type": "MODIFICATION",
+      "parent": {
+        "id": 1571389
+      },
+      "isNew": false,
+      "description": "4 ГБ, USB 2.0",
+      "link": "https://market.yandex.ru/product/1562426?hid=288003&pp=929"
+    },
+    {
+      "__type": "model",
+      "id": 11614545,
+      "name": "Сварочный аппарат Deca MOS 170GEN",
+      "kind": "",
+      "type": "MODEL",
+      "isNew": false,
+      "description": "инвертор, типы сварки:  ручная дуговая сварка (MMA), аргонодуговая сварка (TIG)\n, макс. сварочный ток: 160 А (MMA), 160 А (TIG), электрод: 1.6-4 мм, фазы питания: 1",
+      "link": "https://market.yandex.ru/product/11614545?hid=284394&pp=929"
+    },
+    {
+      "__type": "model",
+      "id": 9260879,
+      "name": "Наручные часы Gattinoni MOS-PL.3.3",
+      "kind": "",
+      "type": "MODEL",
+      "isNew": false,
+      "description": "кварцевые, женские, водонепроницаемость WR30 (3 атм), стекло минеральное, материал корпуса: нерж. сталь, камень-вставка: циркон",
+      "link": "https://market.yandex.ru/product/9260879?hid=91259&pp=929"
+    },
+    {
+      "__type": "model",
+      "id": 9260878,
+      "name": "Наручные часы Gattinoni MOS-PL.4.4",
+      "kind": "",
+      "type": "MODEL",
+      "isNew": false,
+      "description": "кварцевые, женские, водонепроницаемость WR30 (3 атм), стекло минеральное, материал корпуса: нерж. сталь, камень-вставка: циркон",
+      "link": "https://market.yandex.ru/product/9260878?hid=91259&pp=929"
+    },
+    {
+      "__type": "model",
+      "id": 6504574,
+      "name": "Автомобильная акустика Macrom MOS.6",
+      "kind": "",
+      "type": "MODEL",
+      "isNew": false,
+      "description": "среднечастотная АС, типоразмер: 16 см (6 дюйм.), мощность: 100 Вт, количество полос: 1, чувствительность: 89 дБ",
+      "link": "https://market.yandex.ru/product/6504574?hid=308016&pp=929"
+    },
+    {
+      "__type": "model",
+      "id": 11614540,
+      "name": "Сварочный аппарат Deca MOS 138EVO",
+      "kind": "",
+      "type": "MODEL",
+      "isNew": false,
+      "description": "инвертор, типы сварки:  ручная дуговая сварка (MMA), аргонодуговая сварка (TIG)\n, макс. сварочный ток: 130 А (MMA), 130 А (TIG), электрод: 1.6-3.2 мм, фазы питания: 1",
+      "link": "https://market.yandex.ru/product/11614540?hid=284394&pp=929"
+    },
+    {
+      "__type": "model",
+      "id": 9260893,
+      "name": "Наручные часы Gattinoni MOS-PL.PL.4",
+      "kind": "",
+      "type": "MODEL",
+      "isNew": false,
+      "description": "кварцевые, женские, водонепроницаемость WR30 (3 атм), стекло минеральное, материал корпуса: нерж. сталь, камень-вставка: циркон",
+      "link": "https://market.yandex.ru/product/9260893?hid=91259&pp=929"
+    }
+  ]
+}

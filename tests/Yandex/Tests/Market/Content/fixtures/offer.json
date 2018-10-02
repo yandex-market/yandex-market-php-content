@@ -1,0 +1,49 @@
+{
+  "status": "OK",
+  "context": {
+    "region": {
+      "id": 213,
+      "name": "Москва",
+      "type": "CITY",
+      "childCount": 14,
+      "country": {
+        "id": 225,
+        "name": "Россия",
+        "type": "COUNTRY",
+        "childCount": 10
+      }
+    },
+    "currency": {
+      "id": "RUR",
+      "name": "руб."
+    },
+    "id": "1534174173235/7df7b49482401ea7848b05e8dd00bb3b",
+    "time": "2018-08-13T18:29:33.255+03:00",
+    "marketUrl": "https://market.yandex.ru?pp=930"
+  },
+  "offer": {
+    "id": "yDpJekrrgZHrPBiKrOLLqyGP7FDMPJeMUUse4F5KEAZKG1IYcGvOFw",
+    "wareMd5": "CmSqAjoZ0ifocEpyYp5-zA",
+    "name": "Усилитель звука SWAT \"M-1.500\", цвет: черный, цифровой, 1х500 Вт (class D)",
+    "description": "Автомобильный усилитель звука",
+    "price": {
+      "value": "2929"
+    },
+    "cpa": false,
+    "url": "https://market.yandex.ru/offer/CmSqAjoZ0ifocEpyYp5-zA?hid=90408&model_id=50476604&pp=930&cpc=xZS1iXapCfMmAcGVYMg0uSA57Lk6vAZ9Girgy9Qz5rrmlFST532j1ilyqV2yOP7W5SNI_YZLpTaSxOw7V8t9C4Q1_6ZHIsG6D5SG41fbwrukU-Th6BnPXw%2C%2C&lr=213",
+    "outletUrl": "https://market-click2.yandex.ru/redir/338FT8NBgRvWMqMV1R6OX6JZGGbJNO0wWGeNSa-K9fVALLGQsvVndTZ14_1u4Qo_ZdvFBHB_QDUqjHvNU3m0M4I18BHjY3HB-4WX4lspe8QerUHD5VPVJzL5x6gSTvAazgJ4GhX6sVRtnb-cjU8H7BSguVQiBkFg1_j8ACLwiFmENriOVkn9OOyhWD-HJAiFybQPb34q77ReqhoGzgaYMvbMwHEqfVD1ocWrbHzZsZ3_pLQIXgVq3knXn3a9xdiL9PoecQibYJWLQXYCNn5RwKS8zDRLuXe78gDEgEhOq41FklDBnevZqM78JPzOM2yKpzSPB7_bjHnnl6w3xkcPklBMLdBD-Ldx5FZUyAP4pn4rMGZxlnEtkutvzp-7OWq4ZxUoMV-Awe-r4HKSDPhfH1Azm90oR5D2J-gk-pt0IL4v0pJy2PAMqAZuIgXi0XcUu2awcX7q_hXzRFeOiybEqR1tD6A3Rzmx6I2FhEA3K8QKiZ4jI3cbQXIr3r3il87Uy7RGre3KR25zzz6d1gcld8YAl3uG42IqPpiXymHMKyQw-9n_TNP9nWMBt0ODnVGCx2f2qgu71HQjT2W-YUvt3L4cKIytuVWkvZJ9hwpko31kfHLUnt0w6IW5LhTS5pdCwy3MQnwuCw2j71IdVwflTwHn5t4oyvTl-FDVWpz0jw96xgmK9qsTyjz00sNlxYqs1Jzxx2vR7ivEFIcqCjMIBpfYpYQTIiyprS3NO8TlLbknCk7XFQVl4Y0Cqip9QfVJe3UJArzrJd2DYw6CCeJJLdAhC1ZBRJF5W8suaXitWcNF5oqkucM2EFMWBZm-CuAFmN1frNY371fVyAUALRofcEJ_QqI60ye6PHYm2uhH-KPJT0edRApQuCxZonjeyssQdg4aw00-LjQ,?data=41WTYndNxdlaG-5xTfn6okY8p8Pwg5EL5PtKPUoATUEvlEoXLlDZ2cgu-yFWmVG6C0C3Dzlt1h4EUIlYLlPC9XmdQ6ZeuPlUZLTbk6341Z0rsMY5CPRXoxamSepW-VtsJf2lnQLn0qB9z4cZQShg-VOqTuEkAias7AkBaD7eN_9mXg97h1tYHTk8R21OlXsG&b64e=1&sign=33154e985c04231fdc00cdbe6194f512&keyno=1",
+    "model": {
+      "id": 50476604
+    },
+    "onStock": true,
+    "phone": {
+      "number": "+7 (495) 730 67 67",
+      "sanitized": "+74957306767"
+    },
+    "warranty": false,
+    "recommended": false,
+    "paymentOptions": {
+      "canPayByCard": false
+    }
+  }
+}

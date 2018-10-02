@@ -1,0 +1,118 @@
+{
+  "status": "OK",
+  "context": {
+    "region": {
+      "id": 213,
+      "name": "Москва",
+      "type": "CITY",
+      "childCount": 14,
+      "country": {
+        "id": 225,
+        "name": "Россия",
+        "type": "COUNTRY",
+        "childCount": 10
+      }
+    },
+    "currency": {
+      "id": "RUR",
+      "name": "руб."
+    },
+    "alternateCurrency": {
+      "id": "EUR",
+      "name": "евро"
+    },
+    "page": {
+      "number": 1,
+      "count": 3,
+      "total": 3,
+      "last": false
+    },
+    "id": "1533888370267/cd40dc8c14fee4211c9037e18ff7eb05",
+    "time": "2018-08-10T11:06:10.285+03:00",
+    "marketUrl": "https://market.yandex.ru?pp=1001"
+  },
+  "warnings": [
+    {
+      "type": "TEST_WARNING",
+      "code": "TEST_WARNING",
+      "message": "Test Warning"
+    }
+  ],
+  "categories": [
+    {
+      "id": 90402,
+      "name": "Авто",
+      "fullName": "Товары для авто- и мототехники",
+      "link": "https://market.yandex.ru/catalog/90402/list?hid=90402&onstock=1&pp=1001",
+      "childCount": 12,
+      "advertisingModel": "HYBRID",
+      "viewType": "LIST",
+      "parent": 90509,
+      "adult": false,
+      "modelCount": 12,
+      "offerCount": 24,
+      "warnings": [
+        {
+          "type": "TEST_WARNING",
+          "code": "TEST_WARNING",
+          "message": "Test Warning"
+        },
+        {
+          "type": "TEST_WARNING_2",
+          "code": "TEST_WARNING_2",
+          "message": "Test Warning 2"
+        }
+      ]
+    },
+    {
+      "id": 90403,
+      "name": "Авто",
+      "fullName": "Товары для авто- и мототехники",
+      "link": "https://market.yandex.ru/catalog/90402/list?hid=90402&onstock=1&pp=1001",
+      "childCount": 12,
+      "advertisingModel": "HYBRID",
+      "viewType": "LIST",
+      "parent": 90509,
+      "adult": false,
+      "modelCount": 12,
+      "offerCount": 24,
+      "warnings": [
+        {
+          "type": "TEST_WARNING",
+          "code": "TEST_WARNING",
+          "message": "Test Warning"
+        },
+        {
+          "type": "TEST_WARNING_2",
+          "code": "TEST_WARNING_2",
+          "message": "Test Warning 2"
+        }
+      ]
+    },
+    {
+      "id": 90404,
+      "name": "Авто",
+      "fullName": "Товары для авто- и мототехники",
+      "link": "https://market.yandex.ru/catalog/90402/list?hid=90402&onstock=1&pp=1001",
+      "childCount": 12,
+      "advertisingModel": "HYBRID",
+      "viewType": "LIST",
+      "parent": 90509,
+      "adult": false,
+      "modelCount": 12,
+      "offerCount": 24,
+      "warnings": [
+        {
+          "type": "TEST_WARNING",
+          "code": "TEST_WARNING",
+          "message": "Test Warning"
+        },
+        {
+          "type": "TEST_WARNING_2",
+          "code": "TEST_WARNING_2",
+          "message": "Test Warning 2"
+        }
+      ]
+    }
+  ]
+}
