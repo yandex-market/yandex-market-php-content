@@ -83,4 +83,4 @@ do {
 } while (! $modelReviewsIsLastPage);    
 ```
 
-Подробнее см. [Wiki](https://github.com/yandex-market/yandex-market-php-content/wiki) и [документацию партнерского API](https://tech.yandex.ru/market/content-data/doc/dg-v2/concepts/about-docpage/).   
+Подробнее см. [Wiki](https://github.com/yandex-market/yandex-market-php-content/wiki) и [документацию контентного API](https://tech.yandex.ru/market/content-data/doc/dg-v2/concepts/about-docpage/).   
