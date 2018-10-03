@@ -29,7 +29,7 @@
    ```json
    {
        "require": {
-           "yandex-market/yandex-market-php-content": "dev-master"
+           "yandex-market/yandex-market-php-content": "*"
        }
    }
    ```
